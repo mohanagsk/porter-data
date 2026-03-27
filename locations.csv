@@ -1,0 +1,306 @@
+id,pickup_address,drop_address,pickup_lat,pickup_lng,drop_lat,drop_lng,distance_km
+1,"Shahzada Bagh , Phase 1, Shivaji Nagar","M118,Block M,Shastri Nagar Shastri Nagar",28.67005,77.169726,28.672679,77.172429,0.7
+2,"213,Gulshan Park,Mundka , Mundka","Arpit , AM Steel Amar Colony, Nangloi Extension 110041, West Delhi, Delhi",28.684503,77.044019,28.678172,77.04529,1.5
+3,". , 8907,Sidipura,Karol Bagh Karol Bagh 110005, Central Delhi, Delhi","C-14,Rani Jhansi Rd,Block E,Jhandewalan Extension,Jhandewalan , Jhandewalan ,110055, Central Delhi, Delhi",28.656713,77.202518,28.657409,77.203544,1.6
+4,"Govt. Wine Shop , Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area ,110083, North West Delhi, Delhi","175, near MCD park, Peera Garhi, Peeragarhi Village, Paschim Vihar",28.686134,77.082118,28.676516,77.0917,1.8
+5,"Mangolpuri Industrial Area Phase II , Phase 2, Pocket A, Industrial Area","Peera Garhi, Peeragarhi Village, Paschim Vihar, Delhi, India",28.68502,77.098174,28.676516,77.0917,1.9
+6,"CN-3029, Mundka Industrial Area, Mundka, New Delhi, Delhi, 110041, India Mundka","City Park Resort , Rohtak Road, Netaji Subhash Vihar, Mundka",28.680467,77.023779,28.684691,76.999206,2.4
+7,"Block 48D, Beadonpura, Karol Bagh, Delhi, India","9A/1, Vishnu Mandir Marg, adjacent to Channa Market, Channa Market, Block 9A, WEA, Karol Bagh, New Delhi, Central Delhi, Delhi 110005, India",28.649572,77.19722,28.645211,77.184198,2.4
+8,"9A/1,Vishnu Mandir Marg,Channa Market,Block 9A,WEA,Karol Bagh , Karol Bagh ,110005, Central Delhi, Delhi","1/11,Block 1,East Patel Nagar,Patel Nagar Patel Nagar 110008, Central Delhi, Delhi",28.645323,77.184182,28.655121,77.151655,2.5
+9,"13, Balraj Khanna Marg, Block 1, West Patel Nagar, Patel Nagar, Delhi, India","Channa Market, Block 7A, WEA, Karol Bagh, Delhi, India",28.648077,77.165512,28.645792,77.183923,2.6
+10,"Peera Garhi, Delhi","Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area, Mangolpuri, Delhi, India",28.676516,77.0917,28.686266,77.088823,2.9
+11,"110008, Patel Nagar Main, Patel Nagar, Block 1, East Patel Nagar, Patel Nagar, New Delhi, Central Delhi, Delhi, India","Prahlad Market, Desh Bandhu Gupta Road, Block 52, Karol Bagh, Delhi, India",28.654497,77.153595,28.654413,77.190111,2.9
+12,"C 50,near ITI college,Mangol Puri Industrial Area Phase I,Phase 1,Pocket B,Industrial Area,Mangolpuri , Mangolpuri","SAGE WHEELCHAIR, WHEELCHAIR MANUFACTURER Peera Garhi, Peeragarhi Village",28.686266,77.088823,28.679996,77.093624,3.1
+13,"C-470,Lok Nayak Puram,Bakkarwala Bakkarwala","Mundka Industrial Area,Mundka , Mundka",28.664351,77.01328,28.680781,77.002264,3.2
+14,"ST VERMA HOSIERY , street no.9, Block M, Shastri Nagar ,110052, North West Delhi, Delhi","L-224,Inderlok Inderlok 110052, North West Delhi, Delhi",28.673422,77.172709,28.67363,77.16898,3.2
+15,"Prahlad Market, Desh Bandhu Gupta Road, Block 52, Karol Bagh, Delhi, India","110008, Patel Nagar Main, Patel Nagar, Block 1, East Patel Nagar, Patel Nagar, New Delhi, Central Delhi, Delhi, India",28.654413,77.190111,28.654497,77.153595,3.4
+16,"Mundka Village,Mundka Mundka","57,Amar Colony Phase2,Jai Vihar,Kamruddin Nagar , Kamruddin Nagar",28.669435,77.034155,28.674711,77.048204,3.6
+17,"487/7, Peera Garhi Flyover, Ekta Enclave, Peeragarhi Village, Paschim Vihar, Delhi, India","Gali No. 25, Mangol Pur Kalan, Mangolpuri, Delhi",28.679617,77.094704,28.694322,77.101442,3.6
+18,"57,Rohtak Rd,Peera Garhi,Udyog Nagar,Mangolpuri Mangolpuri","KGCI Computer Institute , JJ Colony, Block D, Janta Colony, Madipur",28.682825,77.092916,28.672839,77.115653,3.7
+19,"487/7,near Sharma Hotal,Peera Garhi,Industrial Area,Paschim Vihar Paschim Vihar 110087, West Delhi, Delhi","Gali No. 25,Mangol Pur Kalan,Mangolpuri , Mangolpuri ,110034, North West Delhi, Delhi",28.679653,77.092777,28.694322,77.101442,3.7
+20,"169 Anarkali Complex, Block E 3, Jhandewalan Extension, Karol Bagh","5584 , Naya Bazar, Rui Mandi",28.644345,77.203217,28.661588,77.218249,3.9
+21,"Narsingh Garden, Block A, Khayala, Vishnu Garden, Delhi, India","175, Peera Garhi Flyover, Ekta Enclave, Peeragarhi Village, Paschim Vihar, Delhi, 110087, India",28.658861,77.101771,28.679396,77.094693,4.1
+22,"7034a,Rama Rd,Moti Nagar,Industrial Area,Block C,Najafgarh Road Industrial Area , Najafgarh Road Industrial Area","E-187,Block E,Block F,Shastri Nagar Shastri Nagar 110052, North West Delhi, Delhi",28.659551,77.14844,28.671364,77.176667,4.3
+23,"45 , Block B, Hari Nagar","harish , MOHAN HEALTH CARE - MULTISPECILIST CENTRE Block RZ, Khayala, Vishnu Garden 110018, West Delhi, Delhi",28.448024,77.020787,28.65323,77.09555,4.4
+24,"Plot No- 367, Firni Rd, near Saini Dharamashala, Saini Vihar, Swaran Park, Mundka, New Delhi, Delhi, India","C-48, Hind Vihar, Sharda Vats Enclave, Prem Nagar III, Prem Nagar, New Delhi, Delhi, India",28.678487,77.035681,28.689505,77.04448,4.4
+25,"10/67 Furniture Block, Industrial Area, Kirti Nagar","Chara Mandi , Zakhira",28.647018,77.143404,28.666515,77.16649,4.5
+26,"B119,Block B Rd,Pocket B,Lakshmi Park,Nangloi Nangloi 110041, West Delhi, Delhi","36,Mangol Puri Industrial Area Phase I,Phase 1,Pocket B,Industrial Area,Mangolpuri , Mangolpuri ,110083, North West Delhi, Delhi",28.673687,77.065099,28.68697,77.093212,4.5
+27,"Phase 2, Pocket B, Industrial Area, Mangolpuri, Delhi, India","Raja Park, Multani Mohalla, Rani Bagh, Shakurpur, Delhi",28.685667,77.097455,28.683599,77.133946,4.5
+28,"Tata motors body shop DPS , Udyog Nagar ,110041, West Delhi, Delhi","H92,Amar Colony,Nangloi Extension,Nangloi Nangloi",28.681999,77.087734,28.67643,77.044485,4.5
+29,"60c, Sultanpur Mazra Road, Sultanpur Majra Village, Sultanpuri, Delhi, North West Delhi, Delhi, India","2309, Assam Timber Market Road, Assam Timber Market, Gulshan Park, Mundka, Delhi, India",28.691136,77.07745,28.68375,77.045164,4.6
+30,"D384,Kirari Suleman Nagar Village,Sultanpuri , Sultanpuri","T-5/240,Mangol Puri Industrial Area Phase I,Phase 1,Pocket B,Industrial Area,Mangolpuri Mangolpuri",28.699037,77.064078,28.68697,77.093212,4.7
+31,"Block 13B, Balmiki Colony, Karol Bagh, Delhi, India","A-624, Naraina Village Rd, Block A, Pandav Nagar, Pandu Nagar, New Delhi, Delhi, India",28.647142,77.186798,28.651387,77.151281,4.8
+32,"Chandela Park , Khayala ,110018, West Delhi, Delhi","SRS-238,Peera Garhi,Peeragarhi Village,Paschim Vihar Paschim Vihar 110087, West Delhi, Delhi",28.656117,77.103342,28.679996,77.093624,4.9
+33,"9794 Gali Number 29, Anand Parbat Industrial Area, Anand Parbat 110015, West Delhi, Delhi","16/63,Kacheri Rd,Block L,Railway Colony,Tis Hazari , Tis Hazari ,110006, North Delhi, Delhi",28.664803,77.178276,28.665509,77.21869,5.0
+34,"C-48, Hind Vihar, Sharda Vats Enclave, Prem Nagar III, Prem Nagar, New Delhi, Delhi, India","NDPL Office, Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area, Mangolpuri, Delhi, India",28.689505,77.04448,28.68728,77.08226,5.0
+35,"Peera Garhi,Peeragarhi Village,Paschim Vihar Paschim Vihar","D74,Amar Colony,Nangloi Extension,Nangloi , Nangloi",28.676907,77.089176,28.67643,77.044485,5.1
+36,"SAGE Peera Garhi, Peeragarhi Village, Paschim Vihar","213,Gulshan Park,Mundka , Mundka",28.676265,77.091345,28.684503,77.044019,5.1
+37,"ziplite , Ziplite Footcare Industries Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area 110083, North West Delhi, Delhi","Shiva Market , Vats Market, Harsh Vihar ,110034, North West Delhi, Delhi",28.686541,77.090372,28.701055,77.128921,5.2
+38,"SRS/133,Peera Garhi,Peeragarhi Village,Paschim Vihar Paschim Vihar","OFFICE & HALL,GURU HARKRISHAN PUBLIC SCHOOL-5,Rd Number 73,Punjabi Bagh , Punjabi Bagh",28.675435,77.089558,28.662773,77.125191,5.3
+39,"Arpit , AM Steel Amar Colony, Nangloi Extension 110041, West Delhi, Delhi","Govt. Wine Shop , Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area ,110083, North West Delhi, Delhi",28.678172,77.04529,28.686134,77.082118,5.3
+40,"D-358,Lok Nayak Puram,Bakkarwala Bakkarwala","36/4,Tyagi Vihar,Mundka , Mundka",28.66557,77.008225,28.687505,77.010402,5.4
+41,"MATA JAI KAUR PUBLIC SCHOOL, Pocket C, Ashok Vihar III, Ashok Vihar, Delhi, India","Anand Parbat Industrial Area, Anand Parbat, Delhi, India",28.691944,77.180448,28.660941,77.171882,5.5
+42,"Pocket A, Naresh Park, Nangloi, Delhi, India","246, Firni Rd, Shahbad Daulatpur Village, Rohini, New Delhi, Delhi, India",28.674995,77.061472,28.680932,77.023805,5.6
+43,"Block NW, Narsingh Garden, Block A, Raghubir Nagar, Vishnu Garden, Delhi, India","Rama Road, Block C, Najafgarh Road Industrial Area, Delhi, India",28.659401,77.104648,28.661067,77.150974,5.9
+44,"Channa Market, Block 7A, WEA, Karol Bagh, Delhi, India","Kirti Nagar Main Road, WHS Block 2, Furniture Block, Kirti Nagar Industrial Area, Kirti Nagar, New Delhi, Delhi, India",28.645792,77.183923,28.646558,77.140969,5.9
+45,"Block J, Khayala, Vishnu Garden, Delhi, 110018, India","Ziplite Footcare Industries, Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area, Mangolpuri, Delhi, India",28.656099,77.097275,28.686541,77.090372,6.1
+46,"Najafgarh Rd, Baprola, Delhi, India","Narsingh Garden, Block A, Khayala, Vishnu Garden, Delhi, India",28.638962,77.00877,28.658861,77.101771,6.2
+47,"01 Amar Colony, Nangloi Extension, Nangloi","A19-31 , Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area, Mangolpuri",28.67643,77.044485,28.68697,77.093212,6.4
+48,"87/20-87/21,Mundka Industrial Area,Mundka Mundka","2640,Mundka Village,Mundka , Mundka",28.679531,77.005656,28.672609,77.0291,6.4
+49,"Paschim Vihar, New Delhi, Delhi 110087, India","Balaji dharam kanta, Bala ji dharm kanta, West Cabin Block, Mundka, Delhi, West, Delhi 110041, India",28.670321,77.085768,28.685184,77.038,6.5
+50,"Block L, Railway Colony, Tis Hazari, Delhi, India","Gali Number 7, Anand Parbat Industrial Area, Anand Parbat, Delhi, India",28.665509,77.21869,28.660518,77.175206,6.7
+51,"Gali Number 7, Anand Parbat Industrial Area, Anand Parbat, Delhi, India","TCI EXPRESS LIMITED MAYAPURI, opp. Tagore Public, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi, Delhi, India",28.660518,77.175206,28.624408,77.119688,7.3
+52,"H-16/95,Gali No. 23,Rama Vihar,Mohammadpur Majri,Rohini , Rohini ,110081, North West Delhi, Delhi","M53,Block Z,Krishan Vihar Krishan Vihar 110086, North West Delhi, Delhi",28.723731,77.046601,28.707036,77.0772,7.3
+53,"B1/112 , Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area, Mangolpuri","k.p Dharam kanta Ch Bharat Singh Marg, Tek Chand Colony, Nilothi",28.686266,77.088823,28.658777,77.056609,7.3
+54,"A2/98,Pocket A2,Pocket B,Sector 17 Dwarka,Dwarka , Dwarka ,110078, South West Delhi, Delhi","E141,Indra Park,Block E,Masudabad,Najafgarh Najafgarh",28.587383,77.029336,28.617281,77.00327,7.4
+55,"313/205 , Inderlok ,110035, North West Delhi, Delhi","SRS/131,Peera Garhi,Peeragarhi Village,Paschim Vihar Paschim Vihar",28.672774,77.164801,28.679996,77.093624,7.7
+56,"313/205 , Inderlok ,110035, North West Delhi, Delhi","SRS/133,Peera Garhi,Peeragarhi Village,Paschim Vihar Paschim Vihar",28.672774,77.164801,28.675435,77.089558,7.7
+57,"99,Jai Vihar,Kamruddin Nagar Kamruddin Nagar","A87,Narsingh Garden,Block A,Raghubir Nagar,Vishnu Garden , Vishnu Garden",28.674231,77.050471,28.65545,77.102764,8.0
+58,"197, Main Libaspur Rd, Libaspur Extension, Libaspur, Samaypur, Delhi, 110042, India Samaypur 110042, North West Delhi, Delhi","A-Block, Wazirpur Industrial Area Road , Pocket C 3, Phase 2 ,110052, North West Delhi, Delhi",28.750824,77.143808,28.698554,77.170126,8.1
+59,"36/4, Tyagi Vihar, Mundka, New Delhi, Delhi, India","175, Peera Garhi Flyover, Ekta Enclave, Peeragarhi Village, Mangolpuri, Delhi, India",28.689622,77.011652,28.679396,77.094693,8.1
+60,"SRS/131, Peera Garhi, Peeragarhi Village, Paschim Vihar, Delhi, India","Plot No- 367, Firni Rd, near Saini Dharamashala, Saini Vihar, Swaran Park, Mundka, New Delhi, Delhi, India",28.675279,77.08988,28.678487,77.035681,8.3
+61,"20,Furniture Block,Kirti Nagar Industrial Area,Kirti Nagar Kirti Nagar 110015, West Delhi, Delhi","180 , GALI NO 7 JOSHI ROAD KAROL BAGH, Joshi Road, Block A, Karol Bagh ,110005, Central Delhi, Delhi",28.645854,77.141843,28.651291,77.199191,8.4
+62,"Chandela Park, Khayala, Vishnu Garden, Delhi, India","Uttam Nagar West, Nanhey Park Road, Nanhey Park, Subhash Park, Uttam Nagar, New Delhi, Delhi, India",28.656117,77.103342,28.611272,77.050672,8.5
+63,"E141,Indra Park,Block E,Masudabad,Najafgarh Najafgarh","329,Pocket 1,Dwarka Sector 9,Dwarka , Dwarka",28.617281,77.00327,28.584777,77.065441,8.5
+64,"231,Shahzada Bagh,Vardhaman Nagar,Daya Basti Village,Daya Basti , Daya Basti ,110015, West Delhi, Delhi","Pasupaty Springs Pvt Ltd behind, Block B, Mayapuri Industrial Area Phase I, Mayapuri 110064, South West Delhi, Delhi",28.669933,77.172242,28.626493,77.122579,8.6
+65,"487/36,Peera Garhi,Peeragarhi Village,Paschim Vihar Paschim Vihar","Rohini Sector 13 , Sector 13",28.673958,77.088538,28.722052,77.128472,8.7
+66,"33, DSIIDC Industrial Area, Sector 5, Bawana, Delhi, India","DSIDC Industrial Area, Narela, Delhi, India",28.805791,77.075414,28.829651,77.10279,8.9
+67,"10/67 , Furniture Block, Industrial Area, Kirti Nagar","487/18 Peera Garhi, Peeragarhi Village, Paschim Vihar",28.647018,77.143404,28.675495,77.091737,8.9
+68,"K6,Udyog Nagar,Mangolpuri Mangolpuri","Pranav Projects , House Complex Market, Karampura Industrial Area",28.681599,77.09242,28.665953,77.158762,9.0
+69,"Tek Chand Colony, Nilothi, Delhi, India","B-304, Block B, Hari Nagar, Nanak Pura, Hari Nagar, Delhi, India",28.658206,77.057885,28.627014,77.116101,9.0
+70,"Gemini Park,294,Road,Nangli Vihar Extension Part 1,Nangli Sakrawati , Nangli Sakrawati","Mundka Village,Mundka Mundka",28.625074,77.00642,28.669435,77.034155,9.0
+71,"Block A, Mayapuri Industrial Area Phase I, Mayapuri, Delhi, India","SAGE, Peera Garhi, Peeragarhi Village, Paschim Vihar, New Delhi, Delhi, India",28.631259,77.127663,28.676265,77.091345,9.0
+72,"Rohini Sector 13 , Sector 13","487/7,near Sharma Hotal,Peera Garhi,Industrial Area,Paschim Vihar Paschim Vihar 110087, West Delhi, Delhi",28.722052,77.128472,28.679653,77.092777,9.1
+73,"Amar Colony, Nangloi Extension, Nangloi, Delhi, India","Street Number 10, Narsingh Garden, Block A, Raghubir Nagar, Vishnu Garden, Delhi, West Delhi, Delhi, India",28.67643,77.044485,28.65982,77.104688,9.3
+74,"1,B-315,Mangol Puri Industrial Area Phase I,Phase 1,Pocket B,Industrial Area,Mangolpuri Mangolpuri 110083, North West Delhi, Delhi","H-16/95,Gali No. 23,Rama Vihar,Mohammadpur Majri,Rohini , Rohini ,110081, North West Delhi, Delhi",28.686266,77.088823,28.723731,77.046601,9.4
+75,"69/6A, Rama Road, behind The Oreanns Banquet, Industrial Area, Najafgarh Road Industrial Area, New Delhi, Delhi, India","175, Peera Garhi Flyover, Ekta Enclave, Peeragarhi Village, Paschim Vihar, Delhi, India",28.657924,77.148839,28.679396,77.094693,9.4
+76,"42A, Nangloi - Najafgarh Rd, Naresh Park, Najafgarh, New Delhi, Delhi, India","Indian hernes Panna Kalyan, Tikri Kalan",28.617897,76.984375,28.682582,76.964983,9.5
+77,"235, Kunwar Singh Nagar, Kamruddin Nagar, New Delhi, Delhi, India","Block J, Khayala, Vishnu Garden, Delhi, 110018, India",28.668566,77.045309,28.656099,77.097275,9.6
+78,"E-11,Mangolpuri Industrial Area Phase II,Phase 2,Pocket B,Industrial Area,Mangolpuri Mangolpuri 110083, North West Delhi, Delhi","RZC262,Bindapur Rd,Parjapat Colony,Bindapur , Bindapur ,110059, West Delhi, Delhi",28.685667,77.097455,28.612196,77.074939,9.6
+79,"487/7,near Sharma Hotal,Peera Garhi,Industrial Area,Paschim Vihar Paschim Vihar 110087, West Delhi, Delhi","Ram Sweets & Namkeen , Gurudwara Road ,110035, North West Delhi, Delhi",28.679653,77.092777,28.672909,77.165902,9.8
+80,"Nanhey Park Rd, Block D, Subhash Park, Matiala, Delhi, India","Peera Garhi, Peeragarhi Village, Paschim Vihar, Delhi, India",28.610938,77.05022,28.676516,77.0917,9.8
+81,"A1/3,WHS Block 2,Block A,Warehousing Scheme,Kirti Nagar Kirti Nagar","JOY INTERIORS , Extn, Nilothi",28.642585,77.136903,28.64434,77.063805,9.9
+82,"497,KG - 1 Rd,Soniapur,Block KG 1,KG-III KG-III 110018, West Delhi, Delhi","Delhi cantt Gopinath , Sham Singh Street, Gopi Nath Bazar, Cantonment, Delhi ,110010, South West Delhi, Delhi",28.637538,77.078964,28.597034,77.134815,10.0
+83,"Shiva Market , Vats Market, Harsh Vihar ,110034, North West Delhi, Delhi","Arpit , AM Steel Amar Colony, Nangloi Extension 110041, West Delhi, Delhi",28.701055,77.128921,28.678172,77.04529,10.0
+84,"appt,gate no. 5,Shanti Kunj Apartment Metro Station Paschim Vihar West,A5b/186,Block A 1,Ashirwad,Paschim Vihar Paschim Vihar 110041, West Delhi, Delhi","Prasad Nagar,Karol Bagh , Karol Bagh ,110005, Central Delhi, Delhi",28.678677,77.102041,28.64279,77.180335,10.1
+85,Libaspur village Libas Pur Village,"K-5,Block K,Sawan Park,Ashok Vihar , Ashok Vihar",28.748272,77.140911,28.690797,77.18355,10.1
+86,"Sanjay Gandhi Transport Nagar, Delhi, India","Mata Jai Kaur Public School, Phase 3, Ashok Vihar III, Ashok Vihar, Delhi, India",28.738712,77.149954,28.691944,77.180448,10.1
+87,"OFFICE & HALL,GURU HARKRISHAN PUBLIC SCHOOL-5,Rd Number 73,Punjabi Bagh , Punjabi Bagh","Arpit , AM Steel Amar Colony, Nangloi Extension 110041, West Delhi, Delhi",28.662773,77.125191,28.678172,77.04529,10.1
+88,"KGCI Computer Institute , JJ Colony, Block D, Janta Colony, Madipur","ashu, 12 Block 13, WEA, Karol Bagh 110005, Central Delhi, Delhi",28.672839,77.115653,28.648492,77.190203,10.2
+89,"Amruddin Pipe Works Gali Number 7, Anand Parbat Industrial Area, Anand Parbat 110008, Central Delhi, Delhi","Tata motors body shop DPS , Udyog Nagar ,110041, West Delhi, Delhi",28.659929,77.174777,28.681999,77.087734,10.4
+90,"Ram Sweets & Namkeen , Gurudwara Road ,110035, North West Delhi, Delhi","ajay ajay, I328,Saini Mohalla,Shiv Vihar,Nangloi Nangloi 110041, West Delhi, Delhi",28.672909,77.165902,28.677622,77.070118,10.5
+91,"2191 3rd floor raja park Rani bagh,Railway Colony South,Shakur Basti , Shakur Basti ,110034, North West Delhi, Delhi","224,Bhalswa Jahangir Village,Bhalswa Bhalswa 110033, North West Delhi, Delhi",28.677288,77.13936,28.735875,77.161686,10.5
+92,"Tyagi Dharamshala , Block D, Sudershan Park","Tek Chand Colony Nilothi 110041, West Delhi, Delhi",28.658382,77.134653,28.658206,77.057885,10.6
+93,"Kankar, 1024/2, Khera Kalan Road, Siraspur, New Delhi, Delhi, India","h, 20, DSIIDC Industrial Area, Sector 2, Bawana, New Delhi, Delhi, India",28.75687,77.131286,28.801038,77.048384,10.8
+94,"I328,Saini Mohalla,Shiv Vihar,Nangloi Nangloi 110041, West Delhi, Delhi","313/205 , Inderlok ,110035, North West Delhi, Delhi",28.677622,77.070118,28.672774,77.164801,10.9
+95,"Shiv Vihar, Nangloi, Delhi, India","313, Inderlok, Delhi, 110035, India",28.677043,77.071197,28.672774,77.164801,10.9
+96,"ajay ajay, I328,Saini Mohalla,Shiv Vihar,Nangloi Nangloi 110041, West Delhi, Delhi","313/205 , Inderlok ,110035, North West Delhi, Delhi",28.677622,77.070118,28.672774,77.164801,10.9
+97,"Arpit , AM Steel Amar Colony, Nangloi Extension 110041, West Delhi, Delhi","Chandela Park , Khayala ,110018, West Delhi, Delhi",28.678172,77.04529,28.656117,77.103342,11.0
+98,"214, Mayapuri Industrial Phase 2nd Rd, Mayapuri Industrial Area Phase II, Mayapuri, Delhi, India","Peera Garhi, Peeragarhi Village, Paschim Vihar, Delhi, India",28.619085,77.115428,28.676516,77.0917,11.0
+99,"K-5, Block K, Sawan Park, Ashok Vihar, New Delhi, Delhi, India","237, Pocket A Road, Block F, Raghubir Nagar, Tagore Garden Extension, Delhi, India",28.690797,77.18355,28.65527,77.11229,11.0
+100,"NDPL Office , Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area ,110083, North West Delhi, Delhi","Amruddin Pipe Works Gali Number 7, Anand Parbat Industrial Area, Anand Parbat 110008, Central Delhi, Delhi",28.68728,77.08226,28.659929,77.174777,11.2
+151,"Pranav Projects , House Complex Market, Karampura Industrial Area","1024/2, Khera Kalan Road Kankar, Siraspur 110042, North West Delhi, Delhi",28.665953,77.158762,28.75687,77.131286,14.1
+152,"Tis Hazari , Tis Hazari","487/36,Peera Garhi,Peeragarhi Village,Paschim Vihar Paschim Vihar",28.6645,77.217992,28.673958,77.088538,14.2
+153,"Tyagi Dharamshala , Block D, Sudershan Park ,110015, West Delhi, Delhi","Gali No 4,Samaypur Samaypur",28.658382,77.134653,28.758765,77.144235,14.3
+154,"M53,Block Z,Krishan Vihar Krishan Vihar 110086, North West Delhi, Delhi","ST VERMA HOSIERY , street no.9, Block M, Shastri Nagar ,110052, North West Delhi, Delhi",28.707036,77.0772,28.673422,77.172709,14.4
+155,"Naiwala , Karol Bagh","I331 Saini Mohalla, Shiv Vihar, Nangloi",28.647908,77.196681,28.676691,77.068058,14.4
+156,"Naiwala , Karol Bagh","I360,Saini Mohalla,Shiv Vihar,Nangloi Nangloi",28.647908,77.196681,28.676654,77.069454,14.4
+157,"C - 48 Prem nagar Extention,Kirari Rd,Niti Vihar,Sultanpuri , Sultanpuri ,110086, North West Delhi, Delhi",Dabri Village Dabri,28.700261,77.053681,28.609906,77.084506,14.4
+158,"2013,Swaran Park,Mundka Mundka","7034a,Rama Rd,Moti Nagar,Industrial Area,Block C,Najafgarh Road Industrial Area , Najafgarh Road Industrial Area",28.67895,77.035923,28.659551,77.14844,14.6
+159,"L-224,Inderlok Inderlok 110052, North West Delhi, Delhi","C - 48 Prem nagar Extention,Kirari Rd,Niti Vihar,Sultanpuri , Sultanpuri ,110086, North West Delhi, Delhi",28.67363,77.16898,28.700261,77.053681,14.6
+160,"Amruddin Pipe Works Gali Number 7, Anand Parbat Industrial Area, Anand Parbat 110008, Central Delhi, Delhi","154,Block Z,Krishan Vihar , Krishan Vihar ,110086, North West Delhi, Delhi",28.659929,77.174777,28.708063,77.077771,14.7
+161,"18 Rama Nagar Rd, WHS Block 2, Furniture Block, Kirti Nagar Industrial Area, Kirti Nagar","Block BG , Sanjay Gandhi Transport Nagar",28.64619,77.140876,28.73922,77.147797,14.7
+162,"242,Sweepers Colony,Block BG,Sanjay Gandhi Transport Nagar , Sanjay Gandhi Transport Nagar","Shivam Studio Khayala, Vishnu Garden",28.739822,77.144071,28.653815,77.09551,14.7
+163,"4605,Gali Barna,Deputy Ganj,Pahari Dhiraj,Sadar Bazaar , Sadar Bazaar ,110006, North Delhi, Delhi","A19-31, Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area, Mangolpuri, New Delhi, Delhi, 110083, India Mangolpuri",28.66078,77.212235,28.68697,77.093212,14.8
+164,"57,Amar Colony Phase2,Jai Vihar,Kamruddin Nagar , Kamruddin Nagar","1/6,Munshi Ram Shetti Marg,Block 22,West Patel Nagar,Patel Nagar Patel Nagar 110008, Central Delhi, Delhi",28.674711,77.048204,28.653269,77.168468,14.8
+165,"RZC262,Bindapur Rd,Parjapat Colony,Bindapur , Bindapur ,110059, West Delhi, Delhi","C - 48 Prem nagar Extention,Kirari Rd,Niti Vihar,Sultanpuri Sultanpuri 110086, North West Delhi, Delhi",28.612196,77.074939,28.700261,77.053681,14.9
+166,"A-Block, Wazirpur Industrial Area Road , Pocket C 3, Phase 2 ,110052, North West Delhi, Delhi","C - 48 Prem nagar Extention,Kirari Rd,Niti Vihar,Sultanpuri Sultanpuri 110086, North West Delhi, Delhi",28.698554,77.170126,28.700261,77.053681,14.9
+167,"8,Block RZ,Khayala,Vishnu Garden Vishnu Garden","566,Sweepers Colony,Block BG,Sanjay Gandhi Transport Nagar , Sanjay Gandhi Transport Nagar",28.653484,77.092603,28.739822,77.144071,15.0
+168,"Tank road jeans market , Tank Road, Karol Bagh West Extension Area, Block 1 B, Mata Rameshwari Nehru Nagar, Karol Bagh","B119,Block B Rd,Pocket B,Lakshmi Park,Nangloi Nangloi 110041, West Delhi, Delhi",28.650002,77.183942,28.673687,77.065099,15.0
+169,"154,Block Z,Krishan Vihar , Krishan Vihar ,110086, North West Delhi, Delhi","RZ49 Dichaon Enclave, New Hira Nagar, Dichaon Kalan",28.708063,77.077771,28.63173,76.991668,15.2
+170,"SRS-238,Peera Garhi,Peeragarhi Village,Paschim Vihar Paschim Vihar 110087, West Delhi, Delhi","A2/98,Pocket A2,Pocket B,Sector 17 Dwarka,Dwarka , Dwarka ,110078, South West Delhi, Delhi",28.679996,77.093624,28.587383,77.029336,15.3
+171,"224,Bhalswa Jahangir Village,Bhalswa Bhalswa","2760,6,Bara Chamarwara,Chandni Chowk , Chandni Chowk",28.735875,77.161686,28.650533,77.230337,15.3
+172,"TCI EXPRESS LIMITED MAYAPURI , opp. Tagore Public, Phase 2, Mayapuri","Block 48D, Beadonpura, Karol Bagh, Delhi, India",28.624408,77.119688,28.649572,77.19722,15.3
+173,"harish , MOHAN HEALTH CARE - MULTISPECILIST CENTRE Block RZ, Khayala, Vishnu Garden 110018, West Delhi, Delhi","4/101,Bhargava Marg,Kamla Nehru Ridge,Civil Lines , Civil Lines ,110054, North Delhi, Delhi",28.65323,77.09555,28.669943,77.212372,15.4
+174,"224,Bhalswa Jahangir Village,Bhalswa Bhalswa 110033, North West Delhi, Delhi","Gurudwara mori gate sahib , Ram Bazar, South n Madrasi Colony, Mori Gate, India ,110006, North Delhi, Delhi",28.735875,77.161686,28.66473,77.224395,15.4
+175,"239 , Nangli Sakrawati ,110043, South West Delhi, Delhi","E/5,Mangolpuri Industrial Area Phase II,Phase 2,Pocket B,Industrial Area",28.621583,77.013494,28.687608,77.099478,15.6
+176,"Bharat shakti public school , Block W ,110086, North West Delhi, Delhi","WS215,Mayapuri Industrial Area Phase II,Mayapuri Mayapuri 110064, South West Delhi, Delhi",28.707466,77.079261,28.617901,77.115437,15.7
+177,"5584 , Naya Bazar, Rui Mandi","224,Bhalswa Jahangir Village,Bhalswa Bhalswa",28.661588,77.218249,28.735875,77.161686,15.7
+178,"175, near MCD park, Peera Garhi, Peeragarhi Village","3495 , Nicholson Rd, Ram Bazar, South Indian Madrasi Colony, Kashmere Gate",28.676516,77.0917,28.664735,77.222489,15.8
+179,"Kankar,Khera Kalan Rd,Siraspur Siraspur 110042, North West Delhi, Delhi","Haryana Fan Parts , Block A, Sudershan Park ,110015, West Delhi, Delhi",28.767464,77.122777,28.659226,77.133207,16.0
+180,"1024/2, Khera Kalan Road Kankar, Siraspur","Tyagi Dharamshala , Block D, Sudershan Park",28.75687,77.131286,28.658382,77.134653,16.1
+181,"Tank road jeans market , Tank Road, Karol Bagh West Extension Area, Block 1 B, Mata Rameshwari Nehru Nagar, Karol Bagh","99,Jai Vihar,Kamruddin Nagar Kamruddin Nagar",28.650002,77.183942,28.674231,77.050471,16.1
+182,"4/101,Bhargava Marg,Kamla Nehru Ridge,Civil Lines , Civil Lines ,110054, North Delhi, Delhi","Sanjay Gandhi Transport Nagar 110042, North West Delhi, Delhi",28.669943,77.212372,28.738712,77.149954,16.3
+183,Dabri Village Dabri,"14,Dundahera Village,Sector 20 , Sector 20",28.609906,77.084506,28.511633,77.075932,16.4
+184,"Ramesh matiala house , Nanhey Park, Subhash Park ,110059, West Delhi, Delhi","Peera Garhi,Peeragarhi Village,Paschim Vihar Paschim Vihar 110087, West Delhi, Delhi",28.610937,77.049962,28.676907,77.089176,16.4
+185,"2760,6,Bara Chamarwara,Chandni Chowk","Sanjay Gandhi Transport Nagar,Swami Shraddhanand Park,Rajiv Nagar,Bhalswa Bhalswa",28.662815,77.220733,28.739191,77.154098,16.5
+186,"197/A Arvind Enclave, Nangloi","37/1520 , Shri Kishan Dass Rd, Block 39E, Naiwala, Karol Bagh",28.678072,77.047316,28.648643,77.195848,16.6
+187,"2309,Assam Timber Market,Swaran Park,Mundka Mundka","2697,Gurudwara Rd,Block 35M,Beadonpura,Karol Bagh , Karol Bagh",28.68375,77.045164,28.649696,77.193765,16.6
+188,"Kankar, Khera Kalan Road Siraspur","Tyagi Dharamshala , Block D, Sudershan Park",28.759306,77.128855,28.658382,77.134653,16.6
+189,"224,Bhalswa Jahangir Village,Bhalswa Bhalswa 110033, North West Delhi, Delhi","Gali Lallu Misser , Narain Market ,110006, North Delhi, Delhi",28.735875,77.161686,28.655769,77.215627,16.6
+190,"123,Peera Garhi,Peeragarhi Village,Paschim Vihar Paschim Vihar","Gemini Park,294,Road,Nangli Vihar Extension Part 1,Nangli Sakrawati , Nangli Sakrawati",28.674838,77.090368,28.625074,77.00642,16.7
+191,"Prahlad Market, Desh Bandhu Gupta Road, Block 52, Karol Bagh, Delhi, India","k.p Dharam kanta Ch Bharat Singh Marg, Tek Chand Colony, Nilothi",28.654413,77.190111,28.658777,77.056609,16.7
+192,"A/30B,Road,Amar Colony,Block N,Nangloi Extension,Nangloi Nangloi","Naiwala , Karol Bagh",28.678397,77.048171,28.647908,77.196681,16.8
+193,"F94,Sector 3,Bawana Bawana 110039, North West Delhi, Delhi","C37,Mangol Puri Industrial Area Phase I,Phase 1,Pocket B,Industrial Area,Mangolpuri , Mangolpuri ,110083, North West Delhi, Delhi",28.78279,77.053387,28.686266,77.088823,17.0
+194,"28/1527 , Block 39, Naiwala, Karol Bagh","Amar Colony, Nangloi Extension Nangloi",28.647746,77.196861,28.67643,77.044485,17.0
+195,"1864,Block F,Narela Industrial Area , Narela Industrial Area","1024/2, Khera Kalan Road Kankar, Siraspur",28.829651,77.10279,28.75687,77.131286,17.0
+196,"180 , GALI NO 7 JOSHI ROAD KAROL BAGH, Joshi Road, Block A, Karol Bagh ,110005, Central Delhi, Delhi","C - 48 Prem nagar Extention,Kirari Rd,Niti Vihar,Sultanpuri Sultanpuri 110086, North West Delhi, Delhi",28.651291,77.199191,28.700261,77.053681,17.0
+197,"Arpit , AM Steel Amar Colony, Nangloi Extension","Max Speed India , Prahladpur Bangar, Sector 31, Rohini ,110042, North West Delhi, Delhi",28.678172,77.04529,28.748898,77.07756,17.2
+198,"572, Siraspur, New Delhi, Delhi, 110042, India Siraspur 110042, North West Delhi, Delhi","PrintMart , East Park Road, opp. Wine shop, Manakpura, Karol Bagh ,110005, Central Delhi, Delhi",28.759097,77.127599,28.656685,77.201362,17.4
+199,"Balaji dharam kanta , Bala ji dharm kanta, West Cabin Block","Block 48D, Beadonpura, Karol Bagh, Delhi, India",28.685184,77.038,28.649572,77.19722,17.4
+200,"B-9,Yadav Nagar,Samaypur Samaypur","Karol Bagh Bike Market , Block 39E, Naiwala, Karol Bagh",28.749232,77.142703,28.648364,77.195465,17.5
+101,"36,Mangol Puri Industrial Area Phase I,Phase 1,Pocket B,Industrial Area,Mangolpuri , Mangolpuri ,110083, North West Delhi, Delhi","224,Bhalswa Jahangir Village,Bhalswa Bhalswa 110033, North West Delhi, Delhi",28.68697,77.093212,28.735875,77.161686,11.2
+102,"Gali No. 25, Mangol Pur Kalan, Mangolpuri, Delhi","13, Balraj Khanna Marg, Block 1, West Patel Nagar, Patel Nagar, Delhi, India",28.694322,77.101442,28.648077,77.165512,11.2
+103,"T-5/240,Mangol Puri Industrial Area Phase I,Phase 1,Pocket B,Industrial Area,Mangolpuri Mangolpuri","A182,Bhalswa Dairy,Bhalswa , Bhalswa",28.68697,77.093212,28.747117,77.162896,11.3
+104,"TDS fabrics Block B, Mayapuri Industrial Area Phase I, Mayapuri","C 50,near ITI college,Mangol Puri Industrial Area Phase I,Phase 1,Pocket B,Industrial Area,Mangolpuri , Mangolpuri",28.629369,77.126218,28.686266,77.088823,11.4
+105,"PrintMart , East Park Road, opp. Wine shop, Manakpura, Karol Bagh ,110005, Central Delhi, Delhi","K6,Udyog Nagar,Mangolpuri Mangolpuri",28.656685,77.201362,28.681599,77.09242,11.4
+106,"Peeragarhi Chowk Flyover, Udyog Nagar, Mangolpuri, Delhi","Block A, Mayapuri Industrial Area Phase I, Mayapuri, Delhi, India",28.68318,77.0952,28.631259,77.127663,11.5
+107,"237, Pocket A Road, Block F, Raghubir Nagar, Tagore Garden Extension, Delhi, India","Ramesh matiala house, Nanhey Park, Subhash Park, Matiala, Delhi, India",28.65527,77.11229,28.610937,77.049962,11.6
+108,"Street Number 10, Narsingh Garden, Block A, Raghubir Nagar, Vishnu Garden, Delhi, West Delhi, Delhi, India","11/164, Pocket 11, Sector 22, Rohini, New Delhi, Delhi, India",28.65982,77.104688,28.722628,77.060135,11.6
+109,"175, Peera Garhi Flyover, Ekta Enclave, Peeragarhi Village, Mangolpuri, Delhi, India","214, Mayapuri Industrial Phase 2nd Rd, Mayapuri Industrial Area Phase II, Mayapuri, Delhi, India",28.679396,77.094693,28.619085,77.115428,12.0
+110,"Naiwala, Karol Bagh, Delhi, India","57, Rohtak Rd, Uttam Nagar, Peera Garhi, Udyog Nagar, Mangolpuri, Delhi, India",28.647908,77.196681,28.682825,77.092916,12.0
+111,"275/1,Anup Nagar,Uttam Nagar,Bindapur , Bindapur ,110059, West Delhi, Delhi","I328,Saini Mohalla,Shiv Vihar,Nangloi Nangloi 110041, West Delhi, Delhi",28.611663,77.072995,28.677622,77.070118,12.0
+112,"1,Main Libaspur Rd,Master Mohalla,Samaypur Samaypur","Mangolpuri Industrial Area Phase II , Phase 2, Pocket A, Industrial Area",28.75161,77.145681,28.68502,77.098174,12.1
+113,"Ramesh matiala house , Nanhey Park, Subhash Park ,110059, West Delhi, Delhi","Adhyapak Nagar Sihvram Park, Nangloi",28.610937,77.049962,28.665187,77.053541,12.1
+114,"C37,Mangol Puri Industrial Area Phase I,Phase 1,Pocket B,Industrial Area,Mangolpuri , Mangolpuri ,110083, North West Delhi, Delhi","Mundka Khasra no 86/2,near Bharat petrol pump,Mundka Industrial Area,Mundka Mundka",28.686266,77.088823,28.679458,77.012445,12.3
+115,"K11,Udyog Nagar,Mangolpuri Mangolpuri 110041, West Delhi, Delhi","16/133-135,Radha Vihar,Mukundpur , Mukundpur ,110042, North West Delhi, Delhi",28.680246,77.088829,28.744409,77.175917,12.5
+116,"Bhalswa Dairy, Bhalswa, Delhi, India","shop no 487, 115, Peera Garhi, Peeragarhi Village, Paschim Vihar, New Delhi, Delhi, India",28.747117,77.162896,28.678404,77.089866,12.5
+117,"224, Bhalswa Jahangir Village, Bhalswa, New Delhi, Delhi, India","Tis Hazari, Delhi, India",28.735875,77.161686,28.66456,77.214933,12.6
+118,"k.p Dharam kanta Ch Bharat Singh Marg, Tek Chand Colony, Nilothi","10/67 , Furniture Block, Industrial Area, Kirti Nagar",28.658777,77.056609,28.647018,77.143404,12.7
+119,"313/205 , Inderlok ,110035, North West Delhi, Delhi","1024/2, Khera Kalan Road Kankar, Siraspur 110042, North West Delhi, Delhi",28.672774,77.164801,28.75687,77.131286,12.7
+120,"Prasad Nagar,Karol Bagh , Karol Bagh ,110005, Central Delhi, Delhi","1,B-315,Mangol Puri Industrial Area Phase I,Phase 1,Pocket B,Industrial Area,Mangolpuri Mangolpuri 110083, North West Delhi, Delhi",28.64279,77.180335,28.686266,77.088823,12.7
+121,"Raghubir Nagar Road, Narsingh Garden, Block A, Block BG 7, Paschim Vihar, Delhi, India","Block 48D, Beadonpura, Karol Bagh, Delhi, India",28.660549,77.103849,28.649572,77.19722,12.7
+122,"16/133-135, Radha Vihar, Mukundpur, New Delhi, Delhi, India","487/7, Peera Garhi Flyover, Ekta Enclave, Peeragarhi Village, Paschim Vihar, Delhi, India",28.744409,77.175917,28.679617,77.094704,12.8
+123,"Block N, Shyam Nagar, Vishnu Garden, Delhi, India",Shope No.3 Gokhale Markte tis hazari court Dehi,28.647998,77.104288,28.65819,77.196289,12.9
+124,"291, Onkar Nagar B, Tri Nagar, New Delhi, Delhi, 110035, India , Tri Nagar ,110035, North West Delhi, Delhi","79 Amanpuri, Naresh Park, Nangloi 110041, West Delhi, Delhi",28.675193,77.159882,28.672638,77.062442,12.9
+125,"A-624,A-624,Naraina Village Rd,Block A,Pandav Nagar,Pandu Nagar , Pandu Nagar ,110008, Central Delhi, Delhi","54, Badli Road near Garhwal Bakery, Badli, Extn 110042, North West Delhi, Delhi",28.651387,77.151281,28.730275,77.143645,12.9
+126,"Chara Mandi , Zakhira","224,Bhalswa Jahangir Village,Bhalswa Bhalswa 110033, North West Delhi, Delhi",28.666515,77.16649,28.735875,77.161686,12.9
+127,"Gali No. 25,Mangol Pur Kalan,Mangolpuri , Mangolpuri ,110034, North West Delhi, Delhi","hariom hariom, Shuban Sai Mahindra Workshop Block B, Mayapuri Industrial Area Phase I, Mayapuri 110064, South West Delhi, Delhi",28.694322,77.101442,28.625803,77.124996,12.9
+128,"Block 48D, Beadonpura, Karol Bagh, Delhi, India","Sarai , Kale Khan ,110013, South Delhi, Delhi",28.649572,77.19722,28.59061,77.260562,13.2
+129,"Chhappar Wala Chowk , Block 47","J-475D,near Chandela Park,Khayala,Vishnu Garden Vishnu Garden 110018, West Delhi, Delhi,J-475D,near Chandela Park,Khayala,Vishnu Garden Vishnu Garden 110018, West Delhi, Delhi",28.64952,77.196375,28.659036,77.098832,13.2
+130,"Gali No. 25 , Mangol Pur Kalan, Mangolpuri","ashu, 12 Block 13, WEA, Karol Bagh 110005, Central Delhi, Delhi",28.694322,77.101442,28.648492,77.190203,13.2
+131,"M118,Block M,Shastri Nagar Shastri Nagar","D384,Kirari Suleman Nagar Village,Sultanpuri , Sultanpuri",28.672679,77.172429,28.699037,77.064078,13.3
+132,"12 Block 13, WEA, Karol Bagh","Street Number 2, sham nagar, New Govindpura, Krishna Nagar",28.648919,77.190392,28.665757,77.264074,13.3
+133,"Karol Bagh Bike Market , Block 39E, Naiwala, Karol Bagh","K11,Udyog Nagar,Mangolpuri Mangolpuri 110041, West Delhi, Delhi",28.648364,77.195465,28.680246,77.088829,13.3
+134,"37/1520 , Shri Kishan Dass Rd, Block 39E, Naiwala, Karol Bagh","54, Badli Road near Garhwal Bakery, Badli, Extn",28.648643,77.195848,28.730275,77.143645,13.4
+135,"Pasupaty Springs Pvt Ltd behind, Block B, Mayapuri Industrial Area Phase I","239 , Nangli Sakrawati",28.626493,77.122579,28.621583,77.013494,13.5
+136,"12 Block 13, WEA, Karol Bagh","Rashid market extn , Bhagat Singh Rd, New Govindpura, Geeta Colony",28.648919,77.190392,28.649474,77.281422,13.5
+137,"A19-31 , Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area, Mangolpuri","Block 48D, Beadonpura, Karol Bagh, Delhi, India",28.68697,77.093212,28.649572,77.19722,13.6
+138,"Block NW,Narsingh Garden,Block A,Raghubir Nagar,Paschim Vihar Paschim Vihar","4605,Gali Barna,Deputy Ganj,Pahari Dhiraj,Sadar Bazaar , Sadar Bazaar",28.659401,77.104648,28.66078,77.212235,13.7
+139,"E-187,Block E,Block F,Shastri Nagar Shastri Nagar 110052, North West Delhi, Delhi","Bharat shakti public school , Block W ,110086, North West Delhi, Delhi",28.671364,77.176667,28.707466,77.079261,13.7
+140,"139SRS,Peera Garhi,Peeragarhi Village,Paschim Vihar Paschim Vihar","Mundka Industrial Area , Mundka",28.679996,77.093624,28.679458,77.012445,13.7
+141,"487/18 Peera Garhi, Peeragarhi Village, Paschim Vihar","Tikri , Kalan",28.675495,77.091737,28.682582,76.964983,13.7
+142,"Tilak Bazar,Naya Bazar,Khari Baoli,Chandni Chowk","N1938 Block N, Shyam Nagar, Vishnu Garden",28.657152,77.220775,28.651287,77.103284,13.7
+143,"1024/2, Khera Kalan Road Kankar, Siraspur 110042, North West Delhi, Delhi","231,Shahzada Bagh,Vardhaman Nagar,Daya Basti Village,Daya Basti , Daya Basti ,110015, West Delhi, Delhi",28.75687,77.131286,28.669933,77.172242,13.8
+144,"Kashmiri , Gate","A1/3,WHS Block 2,Block A,Warehousing Scheme,Kirti Nagar Kirti Nagar",28.666873,77.229434,28.642585,77.136903,13.8
+145,"329,Pocket 1,Dwarka Sector 9,Dwarka , Dwarka","487/7,near Sharma Hotal,Peera Garhi,Industrial Area,Paschim Vihar Paschim Vihar 110087, West Delhi, Delhi",28.584777,77.065441,28.679653,77.092777,13.8
+146,"D74,Amar Colony,Nangloi Extension,Nangloi , Nangloi","Amruddin Pipe Works Gali Number 7, Anand Parbat Industrial Area, Anand Parbat 110008, Central Delhi, Delhi",28.67643,77.044485,28.659929,77.174777,13.8
+147,"Amar Colony, Nangloi Extension Nangloi","Shahzada Bagh , Phase 1, Shivaji Nagar",28.67643,77.044485,28.67005,77.169726,14.0
+148,Shope No.3 Gokhale Markte tis hazari court Dehi,"Peera Garhi,Peeragarhi Village,Paschim Vihar",28.65819,77.196289,28.676516,77.0917,14.0
+149,"Nai Walan , Karol Bagh","497,KG - 1 Rd,Soniapur,Block KG 1,KG-III KG-III 110018, West Delhi, Delhi",28.647908,77.196681,28.637538,77.078964,14.1
+150,"Max Speed India , Prahladpur Bangar, Sector 31, Rohini","Tek Chand Colony, Nilothi",28.748898,77.07756,28.658206,77.057885,14.1
+201,"hariom hariom, Shuban Sai Mahindra Workshop Block B, Mayapuri Industrial Area Phase I, Mayapuri 110064, South West Delhi, Delhi","42A,Nangloi - Najafgarh Rd,Naresh Park,Najafgarh , Najafgarh ,110043, South West Delhi, Delhi",28.625803,77.124996,28.617897,76.984375,17.5
+202,"Block BG , Sanjay Gandhi Transport Nagar",Najafgarh Rd Baprola,28.73922,77.147797,28.638962,77.00877,17.5
+203,"H20, DSIIDC Industrial Area, Sector 2, Bawana","86/21,Mundka Industrial Area,Mundka Mundka",28.797991,77.052129,28.680741,77.010781,17.5
+204,"H92,Amar Colony,Nangloi Extension,Nangloi Nangloi","Naiwala , Karol Bagh",28.67643,77.044485,28.647908,77.196681,17.6
+205,"Deputy Ganj, Pahari Dhiraj , Sadar Bazaar","197/A Arvind Enclave, Nangloi",28.659973,77.212312,28.678072,77.047316,17.9
+206,"Deputy Ganj, Pahari Dhiraj , Sadar Bazaar","01 Amar Colony, Nangloi Extension, Nangloi",28.659973,77.212312,28.67643,77.044485,18.0
+207,Mundka metro station gate no 1 West Cabin Block,"Naiwala , Karol Bagh",28.68239,77.03034,28.647908,77.196681,18.1
+208,"Amruddin Pipe Works Gali Number 7, Anand Parbat Industrial Area, Anand Parbat 110008, Central Delhi, Delhi","275/1,Anup Nagar,Uttam Nagar,Bindapur , Bindapur ,110059, West Delhi, Delhi",28.659929,77.174777,28.611663,77.072995,18.1
+209,"Deputy Ganj, Pahari Dhiraj , Sadar Bazaar","Amar Colony, Mundka Extension, Mundka",28.659973,77.212312,28.67643,77.044485,18.1
+210,"WS215,Mayapuri Industrial Area Phase II,Mayapuri Mayapuri 110064, South West Delhi, Delhi","614/2,Fasil Rd,Chabdi Bazar,Shardhanand Market,Farash Khana,Chandni Chowk , Chandni Chowk ,110006, North Delhi, Delhi",28.617901,77.115437,28.652047,77.220011,18.2
+211,"C - 48 Prem nagar Extention,Kirari Rd,Niti Vihar,Sultanpuri Sultanpuri 110086, North West Delhi, Delhi","2140/6,Rajguru Marg,Chuna Mandi,Aram Bagh,Paharganj , Paharganj ,110055, Central Delhi, Delhi",28.700261,77.053681,28.64492,77.210527,18.2
+212,"C - 48 Prem nagar Extention,Kirari Rd,Niti Vihar,Sultanpuri Sultanpuri 110086, North West Delhi, Delhi","2140/4,Gali Number 3,Bazar Sangatrashan,Chuna Mandi,Paharganj , Paharganj ,110055, Central Delhi, Delhi",28.700261,77.053681,28.644867,77.210473,18.2
+213,"54, Badli Road near Garhwal Bakery, Badli, Extn","Vishal Mega Mart, Main 100 Feet Road, CHHAJJU COLONY, Chhajjupur, Shahdara, Delhi, India",28.730275,77.143645,28.689256,77.287355,18.2
+214,"92/1 Gali No. 5, Mundka Industrial Area, Mundka","Tank road jeans market , Tank Road, Karol Bagh West Extension Area, Block 1 B, Mata Rameshwari Nehru Nagar, Karol Bagh",28.676807,77.021648,28.650002,77.183942,18.3
+215,"Naiwala , Karol Bagh",Mundka metro station gate no 1 West Cabin Block,28.647908,77.196681,28.68239,77.03034,18.3
+216,"JOY INTERIORS , Extn, Nilothi","572, Siraspur, New Delhi, Delhi, 110042, India Siraspur 110042, North West Delhi, Delhi",28.64434,77.063805,28.759097,77.127599,18.5
+217,"Haryana Fan Parts , Block A, Sudershan Park ,110015, West Delhi, Delhi","Kankar, Khera Kalan Road Siraspur",28.659226,77.133207,28.759306,77.128855,18.8
+218,"2643,Sadar Thana Rd,near Inayat Fashion,Basti Harphool Singh,Ahata Kidara,Sadar Bazaar , Sadar Bazaar","2013,Swaran Park,Mundka Mundka",28.656754,77.212304,28.67895,77.035923,18.9
+219,"4001-b/1,Naya Bazar,Rui Mandi,Sadar Bazaar , Sadar Bazaar","235,Kunwar Singh Nagar,Nangloi Nangloi 110041, West Delhi, Delhi",28.659674,77.218662,28.678701,77.065037,19.0
+220,"Gurudwara mori gate sahib , Ram Bazar, South n Madrasi Colony, Mori Gate, India ,110006, North Delhi, Delhi",Libaspur village Libas Pur Village,28.66473,77.224395,28.748272,77.140911,19.2
+221,"2640,Mundka Village,Mundka , Mundka","Block 48D, Beadonpura, Karol Bagh, Delhi, India",28.672609,77.0291,28.649572,77.19722,19.2
+222,"C - 48 Prem nagar Extention,Kirari Rd,Niti Vihar,Sultanpuri Sultanpuri 110086, North West Delhi, Delhi","Old Delhi Railway station platform , No. 1&2 ,110006, North Delhi, Delhi",28.700261,77.053681,28.66077,77.22699,19.3
+223,"Sri Kedarnath,5351,Aggarwal Marg,Basti Harphool Singh,Ahata Kidara,Sadar Bazaar , Sadar Bazaar","37/7,Extension,Ranhola Ranhola",28.656056,77.210695,28.620739,77.068973,19.4
+224,"Gali No 4,Samaypur Samaypur","A29, DSIIDC Industrial Area, Vijay Nagar, Bawana, New Delhi, Delhi, 110039, India , Bawana",28.758765,77.144235,28.799736,77.040615,20.0
+225,"Mundka Industrial Area,Mundka , Mundka","1/6,Munshi Ram Shetti Marg,Block 22,West Patel Nagar,Patel Nagar Patel Nagar 110008, Central Delhi, Delhi",28.680781,77.002264,28.653269,77.168468,20.0
+226,"246 Firni Rd, Shahbad Daulatpur Village, Rohini","28/1527 , Block 39, Naiwala, Karol Bagh",28.680932,77.023805,28.647746,77.196861,20.1
+227,"2140/4,Gali Number 3,Bazar Sangatrashan,Chuna Mandi,Paharganj , Paharganj ,110055, Central Delhi, Delhi","CN-3029, Mundka Industrial Area, Mundka, New Delhi, Delhi, 110041, India Mundka",28.644867,77.210473,28.680467,77.023779,20.2
+228,"Anand Parbat Industrial Area,Patel Nagar Patel Nagar","Ramesh matiala house , Nanhey Park, Subhash Park",28.660941,77.171882,28.610937,77.049962,20.3
+229,"City Park Resort , Rohtak Road, Netaji Subhash Vihar, Mundka",". , 8907,Sidipura,Karol Bagh Karol Bagh 110005, Central Delhi, Delhi",28.684691,76.999206,28.656713,77.202518,20.5
+230,"2697,Gurudwara Rd,Block 35M,Beadonpura,Karol Bagh , Karol Bagh","197, Main Libaspur Rd, Libaspur Extension, Libaspur, Samaypur, Delhi, 110042, India Samaypur 110042, North West Delhi, Delhi",28.649696,77.193765,28.750824,77.143808,20.9
+231,"Mundka Industrial Area , Mundka","TDS fabrics Block B, Mayapuri Industrial Area Phase I, Mayapuri",28.679458,77.012445,28.629369,77.126218,20.9
+232,"Sanjay Gandhi Transport Nagar 110042, North West Delhi, Delhi","Balaji Sales Corporation Pvt. Ltd. , DSIIDC Industrial Area, Vijay Nagar, Bawana ,110039, North West Delhi, Delhi",28.738712,77.149954,28.804117,77.045242,21.1
+233,"37 , Lal Dora, Block A, Mohan Garden","33,DSIIDC Industrial Area,Sector 5,Bawana Bawana",28.636105,77.033024,28.802425,77.076502,21.2
+234,"Mundka Khasra no 86/2,near Bharat petrol pump,Mundka Industrial Area,Mundka Mundka","Tank road jeans market , Tank Road, Karol Bagh West Extension Area, Block 1 B, Mata Rameshwari Nehru Nagar, Karol Bagh",28.679458,77.012445,28.650002,77.183942,21.4
+235,"11/164, Pocket 11, Sector 22, Rohini, New Delhi, Delhi, 110086, India Rohini","CHAWRI BAZAR Metro Gate No. 1 , Chawri Bazar",28.722628,77.060135,28.648331,77.225768,21.4
+236,"Bawana Industrial Area, Sector 1 , Bawana","75,Block RZ,Raghubir Nagar,Paschim Vihar Paschim Vihar",28.788669,77.059325,28.657027,77.111493,21.6
+237,"CHAWRI BAZAR Metro Gate No. 1 , Chawri Bazar","92/1 Gali No. 5, Mundka Industrial Area, Mundka",28.648331,77.225768,28.676807,77.021648,21.7
+238,"54, Badli Road near Garhwal Bakery, Badli, Extn","Vishal Mega Mart , Palam Road, near canara bank, Block F, Sadh Nagar II, Sagarpur",28.730275,77.143645,28.593097,77.094861,21.9
+239,"52, Pocket D, Sector 2, Bawana, New Delhi, Delhi, 110039, India Bawana","291, Onkar Nagar B, Tri Nagar, New Delhi, Delhi, 110035, India , Tri Nagar",28.797991,77.052129,28.675193,77.159882,22.1
+240,"G-197,Lok Nayak Puram,Bakkarwala Bakkarwala 110041, West Delhi, Delhi","Deputy Ganj, Pahari Dhiraj , Sadar Bazaar ,110006, North Delhi, Delhi",28.66557,77.008225,28.659973,77.212312,22.2
+241,"Balaji Sales Corporation Pvt. Ltd. , DSIIDC Industrial Area, Vijay Nagar, Bawana ,110039, North West Delhi, Delhi","A/30B,Road,Amar Colony,Block N,Nangloi Extension,Nangloi Nangloi",28.804117,77.045242,28.678397,77.048171,22.4
+242,"86/21,Mundka Industrial Area,Mundka Mundka","Naiwala , Karol Bagh",28.680741,77.010781,28.647908,77.196681,22.5
+243,"124 , Pocket L, Sector 2, Bawana","182,Baba Haridas Nagar Baba Haridas Nagar",28.797991,77.052129,28.690231,76.940741,22.8
+244,"A19-31, Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area, Mangolpuri, New Delhi, Delhi, 110083, India Mangolpuri","A6, Alipur, New Delhi, Delhi, 110082, India , Alipur",28.68697,77.093212,28.796208,77.125355,22.9
+245,"1023,Puth Khurd Puth Khurd 110039, North West Delhi, Delhi","Sri Kedarnath,5351,Aggarwal Marg,Basti Harphool Singh,Ahata Kidara,Sadar Bazaar",28.767052,77.048685,28.656056,77.210695,23.3
+246,"3495 , Nicholson Rd, Ram Bazar, South Indian Madrasi Colony, Kashmere Gate","Kankar,Khera Kalan Rd,Siraspur Siraspur 110042, North West Delhi, Delhi",28.664735,77.222489,28.767464,77.122777,23.4
+247,"2140/6,Rajguru Marg,Chuna Mandi,Aram Bagh,Paharganj , Paharganj ,110055, Central Delhi, Delhi","D-358,Lok Nayak Puram,Bakkarwala Bakkarwala",28.64492,77.210527,28.66557,77.008225,23.7
+248,"Shuban Sai Mahindra Workshop Block B, Mayapuri Industrial Area Phase I, Mayapuri","Kalkaji Depot,Ma Anandmayee Marg,Bal Mukund Khand,Giri Nagar,Kalkaji , Kalkaji",28.625803,77.124996,28.539468,77.266175,23.8
+249,"5, DSIIDC Industrial Area, Sector 5 Bawana 110039, North West Delhi, Delhi","C-17, Pocket A, Naresh Park Extension, Nangloi, Delhi, 110041, India , Nangloi ,110041, West Delhi, Delhi",28.794597,77.041228,28.674775,77.062563,24.0
+250,"B/13/14A,Block B,Tyagi Vihar,Mundka Mundka","4001-b/1,Naya Bazar,Rui Mandi,Sadar Bazaar , Sadar Bazaar",28.688774,76.999173,28.659674,77.218662,24.2
+251,"Tikri , Kalan","Shuban Sai Mahindra Workshop Block B, Mayapuri Industrial Area Phase I, Mayapuri",28.682582,76.964983,28.625803,77.124996,24.4
+252,"A158 Narela Industrial Estate, Narela","Jagnath Niwas, B/60C, Sultanpur Majra Village, Sultanpuri",28.829651,77.10279,28.689143,77.078054,24.6
+253,"614/2,Fasil Rd,Chabdi Bazar,Shardhanand Market,Farash Khana,Chandni Chowk , Chandni Chowk ,110006, North Delhi, Delhi","G-197,Lok Nayak Puram,Bakkarwala Bakkarwala 110041, West Delhi, Delhi",28.652047,77.220011,28.66557,77.008225,24.9
+254,"187,Tikri Kalan Tikri Kalan","2643,Sadar Thana Rd,near Inayat Fashion,Basti Harphool Singh,Ahata Kidara,Sadar Bazaar , Sadar Bazaar",28.683593,76.969869,28.656754,77.212304,25.5
+255,"Vishal Mega Mart , Palam Road, near canara bank, Block F, Sadh Nagar II, Sagarpur","87/20-87/21,Mundka Industrial Area,Mundka Mundka",28.593097,77.094861,28.679531,77.005656,25.8
+256,"Old Delhi Railway station platform , No. 1&2 ,110006, North Delhi, Delhi","B/13/14A,Block B,Tyagi Vihar,Mundka Mundka",28.66077,77.22699,28.688774,76.999173,25.8
+257,"182,Baba Haridas Nagar Baba Haridas Nagar","Deputy Ganj, Pahari Dhiraj , Sadar Bazaar",28.690231,76.940741,28.659973,77.212312,26.0
+258,"177,Baba Haridas Nagar Baba Haridas Nagar","4741/34 , Goal Chakkar, Deputy Ganj, Pahari Dhiraj, Sadar Bazaar",28.690231,76.940741,28.659941,77.212308,26.0
+259,"k.p Dharam kanta Ch Bharat Singh Marg, Tek Chand Colony, Nilothi","124 , Pocket L, Sector 2, Bawana",28.658777,77.056609,28.797991,77.052129,26.0
+260,"4741/34 , Goal Chakkar, Deputy Ganj, Pahari Dhiraj, Sadar Bazaar","187,Tikri Kalan Tikri Kalan",28.659941,77.212308,28.683593,76.969869,26.0
+261,34/18 Tikri Kalan,"Deputy Ganj, Pahari Dhiraj , Sadar Bazaar",28.685686,76.962822,28.659973,77.212312,26.1
+262,New PVC Market New PVC Market,"242,Sweepers Colony,Block BG,Sanjay Gandhi Transport Nagar , Sanjay Gandhi Transport Nagar",28.670889,76.967186,28.739822,77.144071,26.6
+263,"A29, DSIIDC Industrial Area, Vijay Nagar, Bawana, New Delhi, Delhi, 110039, India , Bawana","Shanti Kunj Apartment Metro Station Paschim Vihar West,A5b/186,Block A 1,Ashirwad,Paschim Vihar Paschim Vihar",28.799736,77.040615,28.678677,77.102041,26.9
+264,"A6, Alipur, New Delhi, Delhi, 110082, India , Alipur","446,Tikri Kalan Tikri Kalan",28.796208,77.125355,28.683035,76.968084,27.3
+265,"446,Tikri Kalan Tikri Kalan","Tilak Bazar,Naya Bazar,Khari Baoli,Chandni Chowk",28.683035,76.968084,28.657152,77.220775,27.5
+266,"A29, DSIIDC Industrial Area, Vijay Nagar, Bawana, New Delhi, Delhi, 110039, India Bawana","Chhappar Wala Chowk , Block 47",28.799736,77.040615,28.64952,77.196375,27.6
+267,"SAGE WHEELCHAIR, WHEELCHAIR MANUFACTURER Peera Garhi, Peeragarhi Village","M.H Industries , DSIDC Industrial Area, Narela",28.679996,77.093624,28.829004,77.103759,28.0
+268,"Peera Garhi,Peeragarhi Village,Paschim Vihar Paschim Vihar 110087, West Delhi, Delhi","Punjab National Bank ATM , Extension, Johripur ,110090, East Delhi, Delhi",28.676907,77.089176,28.713115,77.285605,28.4
+269,"Gali Lallu Misser , Narain Market ,110006, North Delhi, Delhi",New PVC Market New PVC Market,28.655769,77.215627,28.670889,76.967186,28.5
+270,"16A Rashid market extn , Bhagat Singh Rd, New Govindpura, Geeta Colony ,110051, East Delhi, Delhi","E-11,Mangolpuri Industrial Area Phase II,Phase 2,Pocket B,Industrial Area,Mangolpuri Mangolpuri 110083, North West Delhi, Delhi",28.649474,77.281422,28.685667,77.097455,28.9
+271,"Block 48D, Beadonpura, Karol Bagh, Delhi, India","AMO Mobility Solutions Private Limited , Block B, Sector 68",28.649572,77.19722,28.60648,77.394557,29.0
+272,"Sarai , Kale Khan ,110013, South Delhi, Delhi","Peera Garhi,Peeragarhi Village,Paschim Vihar Paschim Vihar",28.59061,77.260562,28.676907,77.089176,29.1
+273,"Peera Garhi,Peeragarhi Village,Paschim Vihar Paschim Vihar","Bawana Industrial Area, Sector 1 , Bawana",28.676907,77.089176,28.788669,77.059325,29.3
+274,"sham nagar, New Govindpura, Krishna Nagar","Peeragarhi Chowk Flyover,Udyog Nagar,Mangolpuri Mangolpuri",28.647349,77.279541,28.68318,77.0952,29.7
+275,"Punjab National Bank - ATM, Main Road, Shiv Vihar, Johripur, New Delhi, Delhi, India","Block NW,Narsingh Garden,Block A,Raghubir Nagar,Paschim Vihar Paschim Vihar",28.713115,77.285605,28.659401,77.104648,29.8
+276,"144, DSIIDC Industrial Area, Vijay Nagar, Bawana, Delhi, 110039, India Bawana","Nai Walan , Karol Bagh",28.804309,77.076352,28.647908,77.196681,30.1
+277,"J2966,DSIDC Industrial Area,Narela , Narela","20,Furniture Block,Kirti Nagar Industrial Area,Kirti Nagar Kirti Nagar 110015, West Delhi, Delhi",28.826027,77.10261,28.645854,77.141843,30.2
+278,"M.H Industries , DSIDC Industrial Area, Narela","89/1,Block NW,Narsingh Garden,Block A,Raghubir Nagar,Paschim Vihar Paschim Vihar",28.829004,77.103759,28.658861,77.101771,30.4
+279,"Climax Enterprises Private Limited , Block A1, Trans Delhi Signature City","10/67 Furniture Block, Industrial Area, Kirti Nagar",28.789655,77.271761,28.647018,77.143404,30.9
+280,"Adhyapak Nagar Sihvram Park, Nangloi","Kashmiri , Gate",28.665187,77.053541,28.666873,77.229434,31.1
+281,"Shivam Studio Khayala, Vishnu Garden 110018, West Delhi, Delhi","PP Jewellers , Hanuman Mandir Road, Sadar Bazar, Roshan Pura ,122001, Gurgaon, Haryana",28.653815,77.09551,28.461592,77.031009,32.2
+282,"37/7,Extension,Ranhola Ranhola","J2966,DSIDC Industrial Area,Narela , Narela",28.620739,77.068973,28.826027,77.10261,34.0
+283,"175, near MCD park, Peera Garhi, Peeragarhi Village, Paschim Vihar","Climax Enterprises Private Limited , Block A1, Trans Delhi Signature City",28.676516,77.0917,28.789655,77.271761,34.5
+284,"79 Amanpuri, Naresh Park, Nangloi 110041, West Delhi, Delhi","Sector B-2, Trans Delhi Signature City, Ghaziabad, Uttar Pradesh 201103",28.672638,77.062442,28.781475,77.268962,35.6
+285,"Vishal Mega Mart , Main 100 Feet Road, CHHAJJU COLONY, Chhajjupur ,110032, East Delhi, Delhi","C-470,Lok Nayak Puram,Bakkarwala Bakkarwala",28.689256,77.287355,28.664351,77.01328,36.9
+286,"Tek Chand Colony Nilothi 110041, West Delhi","c-113 , Sector 9 ,201301, Gautam Buddha Nagar, Uttar Pradesh",28.658206,77.057885,28.58695,77.326999,37.9
+287,"14,Dundahera Village,Sector 20 , Sector 20","B-9,Yadav Nagar,Samaypur Samaypur",28.511633,77.075932,28.749232,77.142703,38.2
+288,"PP Jewellers , Hanuman Mandir Road, Sadar Bazar, Roshan Pura ,122001, Gurgaon, Haryana","9794 Gali Number 29, Anand Parbat Industrial Area, Anand Parbat 110015, West Delhi, Delhi",28.461592,77.031009,28.664803,77.178276,38.4
+289,"566,Sweepers Colony,Block BG,Sanjay Gandhi Transport Nagar , Sanjay Gandhi Transport Nagar",KN/14/22 Nangli Sakrawati,28.739822,77.144071,28.622426,77.002735,39.5
+290,"AMO Mobility Solutions Private Limited , Block B, Sector 68 ,201309, Gautam Buddha Nagar, Uttar Pradesh","8,Block RZ,Khayala,Vishnu Garden Vishnu Garden",28.60648,77.394557,28.653484,77.092603,41.2
+291,"Delhi cantt Gopinath , Sham Singh Street, Gopi Nath Bazar, Cantonment, Delhi","177,Baba Haridas Nagar Baba Haridas Nagar",28.597034,77.134815,28.690231,76.940741,41.2
+292,"Sector B-2, Trans Delhi Signature City, Ghaziabad, Uttar Pradesh 201103","A158 Narela Industrial Estate, Narela",28.781475,77.268962,28.829651,77.10279,43.4
+293,"1/6,Munshi Ram Shetti Marg,Block 22,West Patel Nagar,Patel Nagar Patel Nagar 110008, Central Delhi, Delhi","4th Floor,M3M Soulitude,S-14,Sector 89 , Sector 89 ,122505, Gurgaon, Haryana",28.653269,77.168468,28.420456,76.946725,43.8
+294,"Block 48D, Beadonpura, Karol Bagh, Delhi, India","6B,Sarurpur Industrial Area,Sector 53 , Sector 53 ,121015, Faridabad, Haryana",28.649572,77.19722,28.346229,77.269462,45.8
+295,"1/6,Munshi Ram Shetti Marg,Block 22,West Patel Nagar,Patel Nagar Patel Nagar 110008, Central Delhi, Delhi","Smart world gems,N 69,Sector 89 , Sector 89 ,122505, Gurgaon, Haryana",28.653269,77.168468,28.425343,76.943893,46.1
+296,KN/14/22 Nangli Sakrawati,"37 , Lal Dora, Block A, Mohan Garden",28.622426,77.002735,28.636105,77.033024,47.3
+297,"Kalkaji Depot,Ma Anandmayee Marg,Bal Mukund Khand,Giri Nagar,Kalkaji , Kalkaji",34/18 Tikri Kalan,28.539468,77.266175,28.685686,76.962822,49.7
+298,"Indian hernes Panna Kalyan, Tikri Kalan","a-54 , A-54, DDA Shed, Block A, Okhla Phase II, Okhla Industrial Estate",28.682582,76.964983,28.532515,77.271495,49.9
+299,"Block 48D, Beadonpura, Karol Bagh, Delhi, India","qqq , Greater Noida, Uttar Pradesh, 203207 ,203207, Gautam Buddha Nagar, Uttar Pradesh",28.649572,77.19722,28.553524,77.573405,50.9
+300,"c-113 , Sector 9 ,201301, Gautam Buddha Nagar, Uttar Pradesh","F94,Sector 3,Bawana Bawana 110039, North West Delhi, Delhi",28.58695,77.326999,28.78279,77.053387,52.0
+301,"a-54 , A-54, DDA Shed, Block A, Okhla Phase II, Okhla Industrial Estate","144, DSIIDC Industrial Area, Vijay Nagar, Bawana, Delhi,",28.532515,77.271495,28.803568,77.044724,54.6
+302,"4th Floor,M3M Soulitude,S-14,Sector 89 , Sector 89 ,122505, Gurgaon, Haryana","A29, DSIIDC Industrial Area, Vijay Nagar, Bawana, New Delhi, Delhi, 110039, India Bawana",28.420456,76.946725,28.799736,77.040615,56.4
+303,"Smart world gems,N 69,Sector 89 , Sector 89 ,122505, Gurgaon, Haryana","5, DSIIDC Industrial Area, Sector 5 Bawana 110039, North West Delhi, Delhi",28.425343,76.943893,28.794597,77.041228,58.2
+304,"6B,Sarurpur Industrial Area,Sector 53 , Sector 53 ,121015, Faridabad, Haryana","52, Pocket D, Sector 2, Bawana, New Delhi, Delhi",28.346229,77.269462,28.793292,77.0553,83.4
+305,"qqq , Greater Noida, Uttar Pradesh, 203207 ,203207, Gautam Buddha Nagar, Uttar Pradesh","1023,Puth Khurd Puth Khurd 110039, North West Delhi, Delhi",28.553524,77.573405,28.767052,77.048685,101.0
