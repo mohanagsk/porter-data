@@ -3287,3 +3287,375 @@ timestamp,location_id,pickup_address,drop_address,pickup_lat,pickup_lng,drop_lat
 2026-03-28 16:03:29 IST,274,"sham nagar, New Govindpura, Krishna Naga","Peeragarhi Chowk Flyover,Udyog Nagar,Man",28.647349,77.279541,28.68318,77.0952,14ft (Open),3338,0.0,0
 2026-03-28 16:03:29 IST,274,"sham nagar, New Govindpura, Krishna Naga","Peeragarhi Chowk Flyover,Udyog Nagar,Man",28.647349,77.279541,28.68318,77.0952,17ft,3797,0.0,0
 2026-03-28 16:03:29 IST,274,"sham nagar, New Govindpura, Krishna Naga","Peeragarhi Chowk Flyover,Udyog Nagar,Man",28.647349,77.279541,28.68318,77.0952,19ft,4985,0.0,0
+2026-03-28 16:03:43 IST,275,"Punjab National Bank - ATM, Main Road, S","Block NW,Narsingh Garden,Block A,Raghubi",28.713115,77.285605,28.659401,77.104648,2 Wheeler,254,22.0,8
+2026-03-28 16:03:43 IST,275,"Punjab National Bank - ATM, Main Road, S","Block NW,Narsingh Garden,Block A,Raghubi",28.713115,77.285605,28.659401,77.104648,3 Wheeler,1025,0.0,8
+2026-03-28 16:03:43 IST,275,"Punjab National Bank - ATM, Main Road, S","Block NW,Narsingh Garden,Block A,Raghubi",28.713115,77.285605,28.659401,77.104648,Tata Ace,1305,0.0,8
+2026-03-28 16:03:43 IST,275,"Punjab National Bank - ATM, Main Road, S","Block NW,Narsingh Garden,Block A,Raghubi",28.713115,77.285605,28.659401,77.104648,Eeco,1198,0.0,4
+2026-03-28 16:03:43 IST,275,"Punjab National Bank - ATM, Main Road, S","Block NW,Narsingh Garden,Block A,Raghubi",28.713115,77.285605,28.659401,77.104648,Pickup 8ft,1562,0.0,2
+2026-03-28 16:03:43 IST,275,"Punjab National Bank - ATM, Main Road, S","Block NW,Narsingh Garden,Block A,Raghubi",28.713115,77.285605,28.659401,77.104648,E Loader,823,0.0,7
+2026-03-28 16:03:43 IST,275,"Punjab National Bank - ATM, Main Road, S","Block NW,Narsingh Garden,Block A,Raghubi",28.713115,77.285605,28.659401,77.104648,10ft,2621,0.0,2
+2026-03-28 16:03:43 IST,275,"Punjab National Bank - ATM, Main Road, S","Block NW,Narsingh Garden,Block A,Raghubi",28.713115,77.285605,28.659401,77.104648,14ft (Closed),3637,0.0,1
+2026-03-28 16:03:43 IST,275,"Punjab National Bank - ATM, Main Road, S","Block NW,Narsingh Garden,Block A,Raghubi",28.713115,77.285605,28.659401,77.104648,14ft,4024,0.0,4
+2026-03-28 16:03:43 IST,275,"Punjab National Bank - ATM, Main Road, S","Block NW,Narsingh Garden,Block A,Raghubi",28.713115,77.285605,28.659401,77.104648,14ft (Open),4024,0.0,3
+2026-03-28 16:03:43 IST,275,"Punjab National Bank - ATM, Main Road, S","Block NW,Narsingh Garden,Block A,Raghubi",28.713115,77.285605,28.659401,77.104648,17ft,4540,0.0,1
+2026-03-28 16:03:43 IST,275,"Punjab National Bank - ATM, Main Road, S","Block NW,Narsingh Garden,Block A,Raghubi",28.713115,77.285605,28.659401,77.104648,19ft,5627,0.0,0
+2026-03-28 16:03:56 IST,276,"144, DSIIDC Industrial Area, Vijay Nagar","Nai Walan , Karol Bagh",28.804309,77.076352,28.647908,77.196681,2 Wheeler,309,26.0,8
+2026-03-28 16:03:56 IST,276,"144, DSIIDC Industrial Area, Vijay Nagar","Nai Walan , Karol Bagh",28.804309,77.076352,28.647908,77.196681,3 Wheeler,870,0.0,8
+2026-03-28 16:03:56 IST,276,"144, DSIIDC Industrial Area, Vijay Nagar","Nai Walan , Karol Bagh",28.804309,77.076352,28.647908,77.196681,Tata Ace,1242,0.0,8
+2026-03-28 16:03:56 IST,276,"144, DSIIDC Industrial Area, Vijay Nagar","Nai Walan , Karol Bagh",28.804309,77.076352,28.647908,77.196681,Eeco,1044,0.0,8
+2026-03-28 16:03:56 IST,276,"144, DSIIDC Industrial Area, Vijay Nagar","Nai Walan , Karol Bagh",28.804309,77.076352,28.647908,77.196681,Pickup 8ft,1439,0.0,8
+2026-03-28 16:03:56 IST,276,"144, DSIIDC Industrial Area, Vijay Nagar","Nai Walan , Karol Bagh",28.804309,77.076352,28.647908,77.196681,E Loader,859,0.0,8
+2026-03-28 16:03:56 IST,276,"144, DSIIDC Industrial Area, Vijay Nagar","Nai Walan , Karol Bagh",28.804309,77.076352,28.647908,77.196681,10ft,2616,0.0,8
+2026-03-28 16:03:56 IST,276,"144, DSIIDC Industrial Area, Vijay Nagar","Nai Walan , Karol Bagh",28.804309,77.076352,28.647908,77.196681,14ft (Closed),4293,0.0,0
+2026-03-28 16:03:56 IST,276,"144, DSIIDC Industrial Area, Vijay Nagar","Nai Walan , Karol Bagh",28.804309,77.076352,28.647908,77.196681,14ft,4726,0.0,4
+2026-03-28 16:03:56 IST,276,"144, DSIIDC Industrial Area, Vijay Nagar","Nai Walan , Karol Bagh",28.804309,77.076352,28.647908,77.196681,14ft (Open),4726,0.0,4
+2026-03-28 16:03:56 IST,276,"144, DSIIDC Industrial Area, Vijay Nagar","Nai Walan , Karol Bagh",28.804309,77.076352,28.647908,77.196681,17ft,4956,0.0,2
+2026-03-28 16:03:56 IST,276,"144, DSIIDC Industrial Area, Vijay Nagar","Nai Walan , Karol Bagh",28.804309,77.076352,28.647908,77.196681,19ft,5652,0.0,1
+2026-03-28 16:04:10 IST,277,"J2966,DSIDC Industrial Area,Narela , Nar","20,Furniture Block,Kirti Nagar Industria",28.826027,77.10261,28.645854,77.141843,2 Wheeler,268,23.0,8
+2026-03-28 16:04:10 IST,277,"J2966,DSIDC Industrial Area,Narela , Nar","20,Furniture Block,Kirti Nagar Industria",28.826027,77.10261,28.645854,77.141843,3 Wheeler,820,0.0,8
+2026-03-28 16:04:10 IST,277,"J2966,DSIDC Industrial Area,Narela , Nar","20,Furniture Block,Kirti Nagar Industria",28.826027,77.10261,28.645854,77.141843,Tata Ace,1189,0.0,8
+2026-03-28 16:04:10 IST,277,"J2966,DSIDC Industrial Area,Narela , Nar","20,Furniture Block,Kirti Nagar Industria",28.826027,77.10261,28.645854,77.141843,Eeco,993,0.0,8
+2026-03-28 16:04:10 IST,277,"J2966,DSIDC Industrial Area,Narela , Nar","20,Furniture Block,Kirti Nagar Industria",28.826027,77.10261,28.645854,77.141843,Pickup 8ft,1383,0.0,8
+2026-03-28 16:04:10 IST,277,"J2966,DSIDC Industrial Area,Narela , Nar","20,Furniture Block,Kirti Nagar Industria",28.826027,77.10261,28.645854,77.141843,E Loader,842,0.0,8
+2026-03-28 16:04:10 IST,277,"J2966,DSIDC Industrial Area,Narela , Nar","20,Furniture Block,Kirti Nagar Industria",28.826027,77.10261,28.645854,77.141843,10ft,1841,0.0,8
+2026-03-28 16:04:10 IST,277,"J2966,DSIDC Industrial Area,Narela , Nar","20,Furniture Block,Kirti Nagar Industria",28.826027,77.10261,28.645854,77.141843,14ft (Closed),3219,0.0,3
+2026-03-28 16:04:10 IST,277,"J2966,DSIDC Industrial Area,Narela , Nar","20,Furniture Block,Kirti Nagar Industria",28.826027,77.10261,28.645854,77.141843,14ft,3638,0.0,6
+2026-03-28 16:04:10 IST,277,"J2966,DSIDC Industrial Area,Narela , Nar","20,Furniture Block,Kirti Nagar Industria",28.826027,77.10261,28.645854,77.141843,14ft (Open),3638,0.0,4
+2026-03-28 16:04:10 IST,277,"J2966,DSIDC Industrial Area,Narela , Nar","20,Furniture Block,Kirti Nagar Industria",28.826027,77.10261,28.645854,77.141843,17ft,3850,0.0,2
+2026-03-28 16:04:10 IST,277,"J2966,DSIDC Industrial Area,Narela , Nar","20,Furniture Block,Kirti Nagar Industria",28.826027,77.10261,28.645854,77.141843,19ft,5389,0.0,2
+2026-03-28 16:04:24 IST,278,"M.H Industries , DSIDC Industrial Area, ","89/1,Block NW,Narsingh Garden,Block A,Ra",28.829004,77.103759,28.658861,77.101771,2 Wheeler,268,23.0,8
+2026-03-28 16:04:24 IST,278,"M.H Industries , DSIDC Industrial Area, ","89/1,Block NW,Narsingh Garden,Block A,Ra",28.829004,77.103759,28.658861,77.101771,3 Wheeler,817,0.0,8
+2026-03-28 16:04:24 IST,278,"M.H Industries , DSIDC Industrial Area, ","89/1,Block NW,Narsingh Garden,Block A,Ra",28.829004,77.103759,28.658861,77.101771,Tata Ace,1150,0.0,8
+2026-03-28 16:04:24 IST,278,"M.H Industries , DSIDC Industrial Area, ","89/1,Block NW,Narsingh Garden,Block A,Ra",28.829004,77.103759,28.658861,77.101771,Eeco,990,0.0,8
+2026-03-28 16:04:24 IST,278,"M.H Industries , DSIDC Industrial Area, ","89/1,Block NW,Narsingh Garden,Block A,Ra",28.829004,77.103759,28.658861,77.101771,Pickup 8ft,1379,0.0,8
+2026-03-28 16:04:24 IST,278,"M.H Industries , DSIDC Industrial Area, ","89/1,Block NW,Narsingh Garden,Block A,Ra",28.829004,77.103759,28.658861,77.101771,E Loader,688,0.0,8
+2026-03-28 16:04:24 IST,278,"M.H Industries , DSIDC Industrial Area, ","89/1,Block NW,Narsingh Garden,Block A,Ra",28.829004,77.103759,28.658861,77.101771,10ft,1837,0.0,8
+2026-03-28 16:04:24 IST,278,"M.H Industries , DSIDC Industrial Area, ","89/1,Block NW,Narsingh Garden,Block A,Ra",28.829004,77.103759,28.658861,77.101771,14ft (Closed),3215,0.0,3
+2026-03-28 16:04:24 IST,278,"M.H Industries , DSIDC Industrial Area, ","89/1,Block NW,Narsingh Garden,Block A,Ra",28.829004,77.103759,28.658861,77.101771,14ft,3633,0.0,6
+2026-03-28 16:04:24 IST,278,"M.H Industries , DSIDC Industrial Area, ","89/1,Block NW,Narsingh Garden,Block A,Ra",28.829004,77.103759,28.658861,77.101771,14ft (Open),3633,0.0,4
+2026-03-28 16:04:24 IST,278,"M.H Industries , DSIDC Industrial Area, ","89/1,Block NW,Narsingh Garden,Block A,Ra",28.829004,77.103759,28.658861,77.101771,17ft,3845,0.0,2
+2026-03-28 16:04:24 IST,278,"M.H Industries , DSIDC Industrial Area, ","89/1,Block NW,Narsingh Garden,Block A,Ra",28.829004,77.103759,28.658861,77.101771,19ft,5383,0.0,2
+2026-03-28 16:04:37 IST,279,"Climax Enterprises Private Limited , Blo","10/67 Furniture Block, Industrial Area, ",28.789655,77.271761,28.647018,77.143404,2 Wheeler,285,24.0,8
+2026-03-28 16:04:37 IST,279,"Climax Enterprises Private Limited , Blo","10/67 Furniture Block, Industrial Area, ",28.789655,77.271761,28.647018,77.143404,3 Wheeler,966,0.0,8
+2026-03-28 16:04:37 IST,279,"Climax Enterprises Private Limited , Blo","10/67 Furniture Block, Industrial Area, ",28.789655,77.271761,28.647018,77.143404,Tata Ace,1248,0.0,8
+2026-03-28 16:04:37 IST,279,"Climax Enterprises Private Limited , Blo","10/67 Furniture Block, Industrial Area, ",28.789655,77.271761,28.647018,77.143404,Eeco,1191,0.0,8
+2026-03-28 16:04:37 IST,279,"Climax Enterprises Private Limited , Blo","10/67 Furniture Block, Industrial Area, ",28.789655,77.271761,28.647018,77.143404,Pickup 8ft,1585,0.0,8
+2026-03-28 16:04:37 IST,279,"Climax Enterprises Private Limited , Blo","10/67 Furniture Block, Industrial Area, ",28.789655,77.271761,28.647018,77.143404,E Loader,845,0.0,2
+2026-03-28 16:04:37 IST,279,"Climax Enterprises Private Limited , Blo","10/67 Furniture Block, Industrial Area, ",28.789655,77.271761,28.647018,77.143404,10ft,1997,0.0,6
+2026-03-28 16:04:37 IST,279,"Climax Enterprises Private Limited , Blo","10/67 Furniture Block, Industrial Area, ",28.789655,77.271761,28.647018,77.143404,14ft (Closed),3656,0.0,0
+2026-03-28 16:04:37 IST,279,"Climax Enterprises Private Limited , Blo","10/67 Furniture Block, Industrial Area, ",28.789655,77.271761,28.647018,77.143404,14ft,3809,0.0,1
+2026-03-28 16:04:37 IST,279,"Climax Enterprises Private Limited , Blo","10/67 Furniture Block, Industrial Area, ",28.789655,77.271761,28.647018,77.143404,14ft (Open),3809,0.0,1
+2026-03-28 16:04:37 IST,279,"Climax Enterprises Private Limited , Blo","10/67 Furniture Block, Industrial Area, ",28.789655,77.271761,28.647018,77.143404,17ft,4035,0.0,4
+2026-03-28 16:04:37 IST,279,"Climax Enterprises Private Limited , Blo","10/67 Furniture Block, Industrial Area, ",28.789655,77.271761,28.647018,77.143404,19ft,5681,0.0,0
+2026-03-28 16:04:52 IST,280,"Adhyapak Nagar Sihvram Park, Nangloi","Kashmiri , Gate",28.665187,77.053541,28.666873,77.229434,2 Wheeler,196,17.0,8
+2026-03-28 16:04:52 IST,280,"Adhyapak Nagar Sihvram Park, Nangloi","Kashmiri , Gate",28.665187,77.053541,28.666873,77.229434,3 Wheeler,725,0.0,8
+2026-03-28 16:04:52 IST,280,"Adhyapak Nagar Sihvram Park, Nangloi","Kashmiri , Gate",28.665187,77.053541,28.666873,77.229434,Tata Ace,971,0.0,8
+2026-03-28 16:04:52 IST,280,"Adhyapak Nagar Sihvram Park, Nangloi","Kashmiri , Gate",28.665187,77.053541,28.666873,77.229434,Eeco,850,0.0,3
+2026-03-28 16:04:52 IST,280,"Adhyapak Nagar Sihvram Park, Nangloi","Kashmiri , Gate",28.665187,77.053541,28.666873,77.229434,Pickup 8ft,1341,0.0,8
+2026-03-28 16:04:52 IST,280,"Adhyapak Nagar Sihvram Park, Nangloi","Kashmiri , Gate",28.665187,77.053541,28.666873,77.229434,E Loader,716,0.0,4
+2026-03-28 16:04:52 IST,280,"Adhyapak Nagar Sihvram Park, Nangloi","Kashmiri , Gate",28.665187,77.053541,28.666873,77.229434,10ft,2325,0.0,7
+2026-03-28 16:04:52 IST,280,"Adhyapak Nagar Sihvram Park, Nangloi","Kashmiri , Gate",28.665187,77.053541,28.666873,77.229434,14ft (Closed),3906,0.0,1
+2026-03-28 16:04:52 IST,280,"Adhyapak Nagar Sihvram Park, Nangloi","Kashmiri , Gate",28.665187,77.053541,28.666873,77.229434,14ft,4240,0.0,5
+2026-03-28 16:04:52 IST,280,"Adhyapak Nagar Sihvram Park, Nangloi","Kashmiri , Gate",28.665187,77.053541,28.666873,77.229434,14ft (Open),4240,0.0,4
+2026-03-28 16:04:52 IST,280,"Adhyapak Nagar Sihvram Park, Nangloi","Kashmiri , Gate",28.665187,77.053541,28.666873,77.229434,17ft,4382,0.0,2
+2026-03-28 16:04:52 IST,280,"Adhyapak Nagar Sihvram Park, Nangloi","Kashmiri , Gate",28.665187,77.053541,28.666873,77.229434,19ft,4852,0.0,1
+2026-03-28 16:05:06 IST,281,"Shivam Studio Khayala, Vishnu Garden 110","PP Jewellers , Hanuman Mandir Road, Sada",28.653815,77.09551,28.461592,77.031009,2 Wheeler,260,22.0,8
+2026-03-28 16:05:06 IST,281,"Shivam Studio Khayala, Vishnu Garden 110","PP Jewellers , Hanuman Mandir Road, Sada",28.653815,77.09551,28.461592,77.031009,3 Wheeler,1103,0.0,8
+2026-03-28 16:05:06 IST,281,"Shivam Studio Khayala, Vishnu Garden 110","PP Jewellers , Hanuman Mandir Road, Sada",28.653815,77.09551,28.461592,77.031009,Tata Ace,1342,0.0,8
+2026-03-28 16:05:06 IST,281,"Shivam Studio Khayala, Vishnu Garden 110","PP Jewellers , Hanuman Mandir Road, Sada",28.653815,77.09551,28.461592,77.031009,Eeco,1231,0.0,1
+2026-03-28 16:05:06 IST,281,"Shivam Studio Khayala, Vishnu Garden 110","PP Jewellers , Hanuman Mandir Road, Sada",28.653815,77.09551,28.461592,77.031009,Pickup 8ft,1681,0.0,8
+2026-03-28 16:05:06 IST,281,"Shivam Studio Khayala, Vishnu Garden 110","PP Jewellers , Hanuman Mandir Road, Sada",28.653815,77.09551,28.461592,77.031009,E Loader,704,0.0,0
+2026-03-28 16:05:06 IST,281,"Shivam Studio Khayala, Vishnu Garden 110","PP Jewellers , Hanuman Mandir Road, Sada",28.653815,77.09551,28.461592,77.031009,10ft,1978,0.0,0
+2026-03-28 16:05:06 IST,281,"Shivam Studio Khayala, Vishnu Garden 110","PP Jewellers , Hanuman Mandir Road, Sada",28.653815,77.09551,28.461592,77.031009,14ft (Closed),3311,0.0,1
+2026-03-28 16:05:06 IST,281,"Shivam Studio Khayala, Vishnu Garden 110","PP Jewellers , Hanuman Mandir Road, Sada",28.653815,77.09551,28.461592,77.031009,14ft,3717,0.0,1
+2026-03-28 16:05:06 IST,281,"Shivam Studio Khayala, Vishnu Garden 110","PP Jewellers , Hanuman Mandir Road, Sada",28.653815,77.09551,28.461592,77.031009,14ft (Open),3717,0.0,0
+2026-03-28 16:05:06 IST,281,"Shivam Studio Khayala, Vishnu Garden 110","PP Jewellers , Hanuman Mandir Road, Sada",28.653815,77.09551,28.461592,77.031009,17ft,3928,0.0,1
+2026-03-28 16:05:06 IST,281,"Shivam Studio Khayala, Vishnu Garden 110","PP Jewellers , Hanuman Mandir Road, Sada",28.653815,77.09551,28.461592,77.031009,19ft,5551,0.0,0
+2026-03-28 16:05:19 IST,282,"37/7,Extension,Ranhola Ranhola","J2966,DSIDC Industrial Area,Narela , Nar",28.620739,77.068973,28.826027,77.10261,2 Wheeler,279,24.0,8
+2026-03-28 16:05:19 IST,282,"37/7,Extension,Ranhola Ranhola","J2966,DSIDC Industrial Area,Narela , Nar",28.620739,77.068973,28.826027,77.10261,3 Wheeler,903,0.0,8
+2026-03-28 16:05:19 IST,282,"37/7,Extension,Ranhola Ranhola","J2966,DSIDC Industrial Area,Narela , Nar",28.620739,77.068973,28.826027,77.10261,Tata Ace,1139,0.0,8
+2026-03-28 16:05:19 IST,282,"37/7,Extension,Ranhola Ranhola","J2966,DSIDC Industrial Area,Narela , Nar",28.620739,77.068973,28.826027,77.10261,Eeco,1020,0.0,2
+2026-03-28 16:05:19 IST,282,"37/7,Extension,Ranhola Ranhola","J2966,DSIDC Industrial Area,Narela , Nar",28.620739,77.068973,28.826027,77.10261,Pickup 8ft,1416,0.0,4
+2026-03-28 16:05:19 IST,282,"37/7,Extension,Ranhola Ranhola","J2966,DSIDC Industrial Area,Narela , Nar",28.620739,77.068973,28.826027,77.10261,E Loader,728,0.0,1
+2026-03-28 16:05:19 IST,282,"37/7,Extension,Ranhola Ranhola","J2966,DSIDC Industrial Area,Narela , Nar",28.620739,77.068973,28.826027,77.10261,10ft,1886,0.0,2
+2026-03-28 16:05:19 IST,282,"37/7,Extension,Ranhola Ranhola","J2966,DSIDC Industrial Area,Narela , Nar",28.620739,77.068973,28.826027,77.10261,14ft (Closed),3276,0.0,0
+2026-03-28 16:05:19 IST,282,"37/7,Extension,Ranhola Ranhola","J2966,DSIDC Industrial Area,Narela , Nar",28.620739,77.068973,28.826027,77.10261,14ft,3709,0.0,2
+2026-03-28 16:05:19 IST,282,"37/7,Extension,Ranhola Ranhola","J2966,DSIDC Industrial Area,Narela , Nar",28.620739,77.068973,28.826027,77.10261,14ft (Open),3709,0.0,2
+2026-03-28 16:05:19 IST,282,"37/7,Extension,Ranhola Ranhola","J2966,DSIDC Industrial Area,Narela , Nar",28.620739,77.068973,28.826027,77.10261,17ft,4278,0.0,1
+2026-03-28 16:05:19 IST,282,"37/7,Extension,Ranhola Ranhola","J2966,DSIDC Industrial Area,Narela , Nar",28.620739,77.068973,28.826027,77.10261,19ft,5484,0.0,0
+2026-03-28 16:05:33 IST,283,"175, near MCD park, Peera Garhi, Peeraga","Climax Enterprises Private Limited , Blo",28.676516,77.0917,28.789655,77.271761,2 Wheeler,290,25.0,8
+2026-03-28 16:05:33 IST,283,"175, near MCD park, Peera Garhi, Peeraga","Climax Enterprises Private Limited , Blo",28.676516,77.0917,28.789655,77.271761,3 Wheeler,1147,0.0,8
+2026-03-28 16:05:33 IST,283,"175, near MCD park, Peera Garhi, Peeraga","Climax Enterprises Private Limited , Blo",28.676516,77.0917,28.789655,77.271761,Tata Ace,1383,0.0,8
+2026-03-28 16:05:33 IST,283,"175, near MCD park, Peera Garhi, Peeraga","Climax Enterprises Private Limited , Blo",28.676516,77.0917,28.789655,77.271761,Eeco,1262,0.0,0
+2026-03-28 16:05:33 IST,283,"175, near MCD park, Peera Garhi, Peeraga","Climax Enterprises Private Limited , Blo",28.676516,77.0917,28.789655,77.271761,Pickup 8ft,1748,0.0,8
+2026-03-28 16:05:33 IST,283,"175, near MCD park, Peera Garhi, Peeraga","Climax Enterprises Private Limited , Blo",28.676516,77.0917,28.789655,77.271761,E Loader,871,0.0,0
+2026-03-28 16:05:33 IST,283,"175, near MCD park, Peera Garhi, Peeraga","Climax Enterprises Private Limited , Blo",28.676516,77.0917,28.789655,77.271761,10ft,2050,0.0,5
+2026-03-28 16:05:33 IST,283,"175, near MCD park, Peera Garhi, Peeraga","Climax Enterprises Private Limited , Blo",28.676516,77.0917,28.789655,77.271761,14ft (Closed),3444,0.0,1
+2026-03-28 16:05:33 IST,283,"175, near MCD park, Peera Garhi, Peeraga","Climax Enterprises Private Limited , Blo",28.676516,77.0917,28.789655,77.271761,14ft,3892,0.0,1
+2026-03-28 16:05:33 IST,283,"175, near MCD park, Peera Garhi, Peeraga","Climax Enterprises Private Limited , Blo",28.676516,77.0917,28.789655,77.271761,14ft (Open),3892,0.0,0
+2026-03-28 16:05:33 IST,283,"175, near MCD park, Peera Garhi, Peeraga","Climax Enterprises Private Limited , Blo",28.676516,77.0917,28.789655,77.271761,17ft,4133,0.0,1
+2026-03-28 16:05:33 IST,283,"175, near MCD park, Peera Garhi, Peeraga","Climax Enterprises Private Limited , Blo",28.676516,77.0917,28.789655,77.271761,19ft,5791,0.0,0
+2026-03-28 16:05:49 IST,284,"79 Amanpuri, Naresh Park, Nangloi 110041","Sector B-2, Trans Delhi Signature City, ",28.672638,77.062442,28.781475,77.268962,2 Wheeler,308,26.0,8
+2026-03-28 16:05:49 IST,284,"79 Amanpuri, Naresh Park, Nangloi 110041","Sector B-2, Trans Delhi Signature City, ",28.672638,77.062442,28.781475,77.268962,3 Wheeler,1190,0.0,8
+2026-03-28 16:05:49 IST,284,"79 Amanpuri, Naresh Park, Nangloi 110041","Sector B-2, Trans Delhi Signature City, ",28.672638,77.062442,28.781475,77.268962,Tata Ace,1426,0.0,6
+2026-03-28 16:05:49 IST,284,"79 Amanpuri, Naresh Park, Nangloi 110041","Sector B-2, Trans Delhi Signature City, ",28.672638,77.062442,28.781475,77.268962,Eeco,1299,0.0,0
+2026-03-28 16:05:49 IST,284,"79 Amanpuri, Naresh Park, Nangloi 110041","Sector B-2, Trans Delhi Signature City, ",28.672638,77.062442,28.781475,77.268962,Pickup 8ft,1804,0.0,8
+2026-03-28 16:05:49 IST,284,"79 Amanpuri, Naresh Park, Nangloi 110041","Sector B-2, Trans Delhi Signature City, ",28.672638,77.062442,28.781475,77.268962,E Loader,903,0.0,1
+2026-03-28 16:05:49 IST,284,"79 Amanpuri, Naresh Park, Nangloi 110041","Sector B-2, Trans Delhi Signature City, ",28.672638,77.062442,28.781475,77.268962,10ft,2116,0.0,8
+2026-03-28 16:05:49 IST,284,"79 Amanpuri, Naresh Park, Nangloi 110041","Sector B-2, Trans Delhi Signature City, ",28.672638,77.062442,28.781475,77.268962,14ft (Closed),3536,0.0,3
+2026-03-28 16:05:49 IST,284,"79 Amanpuri, Naresh Park, Nangloi 110041","Sector B-2, Trans Delhi Signature City, ",28.672638,77.062442,28.781475,77.268962,14ft,4007,0.0,8
+2026-03-28 16:05:49 IST,284,"79 Amanpuri, Naresh Park, Nangloi 110041","Sector B-2, Trans Delhi Signature City, ",28.672638,77.062442,28.781475,77.268962,14ft (Open),4007,0.0,6
+2026-03-28 16:05:49 IST,284,"79 Amanpuri, Naresh Park, Nangloi 110041","Sector B-2, Trans Delhi Signature City, ",28.672638,77.062442,28.781475,77.268962,17ft,4269,0.0,2
+2026-03-28 16:05:49 IST,284,"79 Amanpuri, Naresh Park, Nangloi 110041","Sector B-2, Trans Delhi Signature City, ",28.672638,77.062442,28.781475,77.268962,19ft,5946,0.0,1
+2026-03-28 16:06:04 IST,285,"Vishal Mega Mart , Main 100 Feet Road, C","C-470,Lok Nayak Puram,Bakkarwala Bakkarw",28.689256,77.287355,28.664351,77.01328,2 Wheeler,298,25.0,8
+2026-03-28 16:06:04 IST,285,"Vishal Mega Mart , Main 100 Feet Road, C","C-470,Lok Nayak Puram,Bakkarwala Bakkarw",28.689256,77.287355,28.664351,77.01328,3 Wheeler,942,0.0,8
+2026-03-28 16:06:04 IST,285,"Vishal Mega Mart , Main 100 Feet Road, C","C-470,Lok Nayak Puram,Bakkarwala Bakkarw",28.689256,77.287355,28.664351,77.01328,Tata Ace,1237,0.0,5
+2026-03-28 16:06:04 IST,285,"Vishal Mega Mart , Main 100 Feet Road, C","C-470,Lok Nayak Puram,Bakkarwala Bakkarw",28.689256,77.287355,28.664351,77.01328,Eeco,1116,0.0,1
+2026-03-28 16:06:04 IST,285,"Vishal Mega Mart , Main 100 Feet Road, C","C-470,Lok Nayak Puram,Bakkarwala Bakkarw",28.689256,77.287355,28.664351,77.01328,Pickup 8ft,1516,0.0,5
+2026-03-28 16:06:04 IST,285,"Vishal Mega Mart , Main 100 Feet Road, C","C-470,Lok Nayak Puram,Bakkarwala Bakkarw",28.689256,77.287355,28.664351,77.01328,E Loader,928,0.0,6
+2026-03-28 16:06:04 IST,285,"Vishal Mega Mart , Main 100 Feet Road, C","C-470,Lok Nayak Puram,Bakkarwala Bakkarw",28.689256,77.287355,28.664351,77.01328,10ft,2245,0.0,1
+2026-03-28 16:06:04 IST,285,"Vishal Mega Mart , Main 100 Feet Road, C","C-470,Lok Nayak Puram,Bakkarwala Bakkarw",28.689256,77.287355,28.664351,77.01328,14ft (Closed),3614,0.0,1
+2026-03-28 16:06:04 IST,285,"Vishal Mega Mart , Main 100 Feet Road, C","C-470,Lok Nayak Puram,Bakkarwala Bakkarw",28.689256,77.287355,28.664351,77.01328,14ft,4063,0.0,5
+2026-03-28 16:06:04 IST,285,"Vishal Mega Mart , Main 100 Feet Road, C","C-470,Lok Nayak Puram,Bakkarwala Bakkarw",28.689256,77.287355,28.664351,77.01328,14ft (Open),4063,0.0,4
+2026-03-28 16:06:04 IST,285,"Vishal Mega Mart , Main 100 Feet Road, C","C-470,Lok Nayak Puram,Bakkarwala Bakkarw",28.689256,77.287355,28.664351,77.01328,17ft,4674,0.0,1
+2026-03-28 16:06:04 IST,285,"Vishal Mega Mart , Main 100 Feet Road, C","C-470,Lok Nayak Puram,Bakkarwala Bakkarw",28.689256,77.287355,28.664351,77.01328,19ft,5870,0.0,0
+2026-03-28 16:06:19 IST,286,"Tek Chand Colony Nilothi 110041, West De","c-113 , Sector 9 ,201301, Gautam Buddha ",28.658206,77.057885,28.58695,77.326999,2 Wheeler,321,27.0,8
+2026-03-28 16:06:19 IST,286,"Tek Chand Colony Nilothi 110041, West De","c-113 , Sector 9 ,201301, Gautam Buddha ",28.658206,77.057885,28.58695,77.326999,3 Wheeler,1268,0.0,8
+2026-03-28 16:06:19 IST,286,"Tek Chand Colony Nilothi 110041, West De","c-113 , Sector 9 ,201301, Gautam Buddha ",28.658206,77.057885,28.58695,77.326999,Tata Ace,1504,0.0,8
+2026-03-28 16:06:19 IST,286,"Tek Chand Colony Nilothi 110041, West De","c-113 , Sector 9 ,201301, Gautam Buddha ",28.658206,77.057885,28.58695,77.326999,Eeco,1374,0.0,1
+2026-03-28 16:06:19 IST,286,"Tek Chand Colony Nilothi 110041, West De","c-113 , Sector 9 ,201301, Gautam Buddha ",28.658206,77.057885,28.58695,77.326999,Pickup 8ft,1889,0.0,8
+2026-03-28 16:06:19 IST,286,"Tek Chand Colony Nilothi 110041, West De","c-113 , Sector 9 ,201301, Gautam Buddha ",28.658206,77.057885,28.58695,77.326999,E Loader,824,0.0,4
+2026-03-28 16:06:19 IST,286,"Tek Chand Colony Nilothi 110041, West De","c-113 , Sector 9 ,201301, Gautam Buddha ",28.658206,77.057885,28.58695,77.326999,10ft,2374,0.0,5
+2026-03-28 16:06:19 IST,286,"Tek Chand Colony Nilothi 110041, West De","c-113 , Sector 9 ,201301, Gautam Buddha ",28.658206,77.057885,28.58695,77.326999,14ft (Closed),3789,0.0,2
+2026-03-28 16:06:19 IST,286,"Tek Chand Colony Nilothi 110041, West De","c-113 , Sector 9 ,201301, Gautam Buddha ",28.658206,77.057885,28.58695,77.326999,14ft,4279,0.0,6
+2026-03-28 16:06:19 IST,286,"Tek Chand Colony Nilothi 110041, West De","c-113 , Sector 9 ,201301, Gautam Buddha ",28.658206,77.057885,28.58695,77.326999,14ft (Open),4279,0.0,4
+2026-03-28 16:06:19 IST,286,"Tek Chand Colony Nilothi 110041, West De","c-113 , Sector 9 ,201301, Gautam Buddha ",28.658206,77.057885,28.58695,77.326999,17ft,4565,0.0,3
+2026-03-28 16:06:19 IST,286,"Tek Chand Colony Nilothi 110041, West De","c-113 , Sector 9 ,201301, Gautam Buddha ",28.658206,77.057885,28.58695,77.326999,19ft,6252,0.0,1
+2026-03-28 16:06:35 IST,287,"14,Dundahera Village,Sector 20 , Sector ","B-9,Yadav Nagar,Samaypur Samaypur",28.511633,77.075932,28.749232,77.142703,2 Wheeler,330,28.0,8
+2026-03-28 16:06:35 IST,287,"14,Dundahera Village,Sector 20 , Sector ","B-9,Yadav Nagar,Samaypur Samaypur",28.511633,77.075932,28.749232,77.142703,3 Wheeler,1155,0.0,8
+2026-03-28 16:06:35 IST,287,"14,Dundahera Village,Sector 20 , Sector ","B-9,Yadav Nagar,Samaypur Samaypur",28.511633,77.075932,28.749232,77.142703,Tata Ace,1417,0.0,8
+2026-03-28 16:06:35 IST,287,"14,Dundahera Village,Sector 20 , Sector ","B-9,Yadav Nagar,Samaypur Samaypur",28.511633,77.075932,28.749232,77.142703,Eeco,1286,0.0,5
+2026-03-28 16:06:35 IST,287,"14,Dundahera Village,Sector 20 , Sector ","B-9,Yadav Nagar,Samaypur Samaypur",28.511633,77.075932,28.749232,77.142703,Pickup 8ft,1708,0.0,3
+2026-03-28 16:06:35 IST,287,"14,Dundahera Village,Sector 20 , Sector ","B-9,Yadav Nagar,Samaypur Samaypur",28.511633,77.075932,28.749232,77.142703,E Loader,851,0.0,0
+2026-03-28 16:06:35 IST,287,"14,Dundahera Village,Sector 20 , Sector ","B-9,Yadav Nagar,Samaypur Samaypur",28.511633,77.075932,28.749232,77.142703,10ft,2092,0.0,2
+2026-03-28 16:06:35 IST,287,"14,Dundahera Village,Sector 20 , Sector ","B-9,Yadav Nagar,Samaypur Samaypur",28.511633,77.075932,28.749232,77.142703,14ft (Closed),3833,0.0,2
+2026-03-28 16:06:35 IST,287,"14,Dundahera Village,Sector 20 , Sector ","B-9,Yadav Nagar,Samaypur Samaypur",28.511633,77.075932,28.749232,77.142703,14ft,4344,0.0,2
+2026-03-28 16:06:35 IST,287,"14,Dundahera Village,Sector 20 , Sector ","B-9,Yadav Nagar,Samaypur Samaypur",28.511633,77.075932,28.749232,77.142703,14ft (Open),4344,0.0,0
+2026-03-28 16:06:35 IST,287,"14,Dundahera Village,Sector 20 , Sector ","B-9,Yadav Nagar,Samaypur Samaypur",28.511633,77.075932,28.749232,77.142703,17ft,4688,0.0,0
+2026-03-28 16:06:35 IST,287,"14,Dundahera Village,Sector 20 , Sector ","B-9,Yadav Nagar,Samaypur Samaypur",28.511633,77.075932,28.749232,77.142703,19ft,5902,0.0,0
+2026-03-28 16:06:48 IST,288,"PP Jewellers , Hanuman Mandir Road, Sada","9794 Gali Number 29, Anand Parbat Indust",28.461592,77.031009,28.664803,77.178276,2 Wheeler,363,31.0,8
+2026-03-28 16:06:48 IST,288,"PP Jewellers , Hanuman Mandir Road, Sada","9794 Gali Number 29, Anand Parbat Indust",28.461592,77.031009,28.664803,77.178276,3 Wheeler,1167,0.0,8
+2026-03-28 16:06:48 IST,288,"PP Jewellers , Hanuman Mandir Road, Sada","9794 Gali Number 29, Anand Parbat Indust",28.461592,77.031009,28.664803,77.178276,Tata Ace,1431,0.0,7
+2026-03-28 16:06:48 IST,288,"PP Jewellers , Hanuman Mandir Road, Sada","9794 Gali Number 29, Anand Parbat Indust",28.461592,77.031009,28.664803,77.178276,Eeco,1298,0.0,1
+2026-03-28 16:06:48 IST,288,"PP Jewellers , Hanuman Mandir Road, Sada","9794 Gali Number 29, Anand Parbat Indust",28.461592,77.031009,28.664803,77.178276,Pickup 8ft,1722,0.0,8
+2026-03-28 16:06:48 IST,288,"PP Jewellers , Hanuman Mandir Road, Sada","9794 Gali Number 29, Anand Parbat Indust",28.461592,77.031009,28.664803,77.178276,E Loader,804,0.0,1
+2026-03-28 16:06:48 IST,288,"PP Jewellers , Hanuman Mandir Road, Sada","9794 Gali Number 29, Anand Parbat Indust",28.461592,77.031009,28.664803,77.178276,10ft,2912,0.0,7
+2026-03-28 16:06:48 IST,288,"PP Jewellers , Hanuman Mandir Road, Sada","9794 Gali Number 29, Anand Parbat Indust",28.461592,77.031009,28.664803,77.178276,14ft (Closed),4961,0.0,1
+2026-03-28 16:06:48 IST,288,"PP Jewellers , Hanuman Mandir Road, Sada","9794 Gali Number 29, Anand Parbat Indust",28.461592,77.031009,28.664803,77.178276,14ft,5478,0.0,3
+2026-03-28 16:06:48 IST,288,"PP Jewellers , Hanuman Mandir Road, Sada","9794 Gali Number 29, Anand Parbat Indust",28.461592,77.031009,28.664803,77.178276,14ft (Open),5478,0.0,2
+2026-03-28 16:06:48 IST,288,"PP Jewellers , Hanuman Mandir Road, Sada","9794 Gali Number 29, Anand Parbat Indust",28.461592,77.031009,28.664803,77.178276,17ft,5829,0.0,1
+2026-03-28 16:06:48 IST,288,"PP Jewellers , Hanuman Mandir Road, Sada","9794 Gali Number 29, Anand Parbat Indust",28.461592,77.031009,28.664803,77.178276,19ft,6143,0.0,0
+2026-03-28 16:07:03 IST,289,"566,Sweepers Colony,Block BG,Sanjay Gand",KN/14/22 Nangli Sakrawati,28.739822,77.144071,28.622426,77.002735,2 Wheeler,248,21.0,8
+2026-03-28 16:07:03 IST,289,"566,Sweepers Colony,Block BG,Sanjay Gand",KN/14/22 Nangli Sakrawati,28.739822,77.144071,28.622426,77.002735,3 Wheeler,777,0.0,7
+2026-03-28 16:07:03 IST,289,"566,Sweepers Colony,Block BG,Sanjay Gand",KN/14/22 Nangli Sakrawati,28.739822,77.144071,28.622426,77.002735,Tata Ace,1085,0.0,8
+2026-03-28 16:07:03 IST,289,"566,Sweepers Colony,Block BG,Sanjay Gand",KN/14/22 Nangli Sakrawati,28.739822,77.144071,28.622426,77.002735,Eeco,949,0.0,0
+2026-03-28 16:07:03 IST,289,"566,Sweepers Colony,Block BG,Sanjay Gand",KN/14/22 Nangli Sakrawati,28.739822,77.144071,28.622426,77.002735,Pickup 8ft,1310,0.0,8
+2026-03-28 16:07:03 IST,289,"566,Sweepers Colony,Block BG,Sanjay Gand",KN/14/22 Nangli Sakrawati,28.739822,77.144071,28.622426,77.002735,E Loader,630,0.0,1
+2026-03-28 16:07:03 IST,289,"566,Sweepers Colony,Block BG,Sanjay Gand",KN/14/22 Nangli Sakrawati,28.739822,77.144071,28.622426,77.002735,10ft,1754,0.0,8
+2026-03-28 16:07:03 IST,289,"566,Sweepers Colony,Block BG,Sanjay Gand",KN/14/22 Nangli Sakrawati,28.739822,77.144071,28.622426,77.002735,14ft (Closed),3336,0.0,6
+2026-03-28 16:07:03 IST,289,"566,Sweepers Colony,Block BG,Sanjay Gand",KN/14/22 Nangli Sakrawati,28.739822,77.144071,28.622426,77.002735,14ft,3725,0.0,8
+2026-03-28 16:07:03 IST,289,"566,Sweepers Colony,Block BG,Sanjay Gand",KN/14/22 Nangli Sakrawati,28.739822,77.144071,28.622426,77.002735,14ft (Open),3725,0.0,4
+2026-03-28 16:07:03 IST,289,"566,Sweepers Colony,Block BG,Sanjay Gand",KN/14/22 Nangli Sakrawati,28.739822,77.144071,28.622426,77.002735,17ft,3951,0.0,4
+2026-03-28 16:07:03 IST,289,"566,Sweepers Colony,Block BG,Sanjay Gand",KN/14/22 Nangli Sakrawati,28.739822,77.144071,28.622426,77.002735,19ft,5142,0.0,4
+2026-03-28 16:07:19 IST,290,"AMO Mobility Solutions Private Limited ,","8,Block RZ,Khayala,Vishnu Garden Vishnu ",28.60648,77.394557,28.653484,77.092603,2 Wheeler,351,30.0,8
+2026-03-28 16:07:19 IST,290,"AMO Mobility Solutions Private Limited ,","8,Block RZ,Khayala,Vishnu Garden Vishnu ",28.60648,77.394557,28.653484,77.092603,3 Wheeler,1141,0.0,8
+2026-03-28 16:07:19 IST,290,"AMO Mobility Solutions Private Limited ,","8,Block RZ,Khayala,Vishnu Garden Vishnu ",28.60648,77.394557,28.653484,77.092603,Tata Ace,1432,0.0,8
+2026-03-28 16:07:19 IST,290,"AMO Mobility Solutions Private Limited ,","8,Block RZ,Khayala,Vishnu Garden Vishnu ",28.60648,77.394557,28.653484,77.092603,Eeco,1348,0.0,8
+2026-03-28 16:07:19 IST,290,"AMO Mobility Solutions Private Limited ,","8,Block RZ,Khayala,Vishnu Garden Vishnu ",28.60648,77.394557,28.653484,77.092603,Pickup 8ft,1779,0.0,8
+2026-03-28 16:07:19 IST,290,"AMO Mobility Solutions Private Limited ,","8,Block RZ,Khayala,Vishnu Garden Vishnu ",28.60648,77.394557,28.653484,77.092603,E Loader,1001,0.0,7
+2026-03-28 16:07:19 IST,290,"AMO Mobility Solutions Private Limited ,","8,Block RZ,Khayala,Vishnu Garden Vishnu ",28.60648,77.394557,28.653484,77.092603,10ft,2439,0.0,6
+2026-03-28 16:07:19 IST,290,"AMO Mobility Solutions Private Limited ,","8,Block RZ,Khayala,Vishnu Garden Vishnu ",28.60648,77.394557,28.653484,77.092603,14ft (Closed),4199,0.0,0
+2026-03-28 16:07:19 IST,290,"AMO Mobility Solutions Private Limited ,","8,Block RZ,Khayala,Vishnu Garden Vishnu ",28.60648,77.394557,28.653484,77.092603,14ft,4734,0.0,0
+2026-03-28 16:07:19 IST,290,"AMO Mobility Solutions Private Limited ,","8,Block RZ,Khayala,Vishnu Garden Vishnu ",28.60648,77.394557,28.653484,77.092603,14ft (Open),4734,0.0,0
+2026-03-28 16:07:19 IST,290,"AMO Mobility Solutions Private Limited ,","8,Block RZ,Khayala,Vishnu Garden Vishnu ",28.60648,77.394557,28.653484,77.092603,17ft,5106,0.0,0
+2026-03-28 16:07:19 IST,290,"AMO Mobility Solutions Private Limited ,","8,Block RZ,Khayala,Vishnu Garden Vishnu ",28.60648,77.394557,28.653484,77.092603,19ft,6419,0.0,1
+2026-03-28 16:07:33 IST,291,"Delhi cantt Gopinath , Sham Singh Street","177,Baba Haridas Nagar Baba Haridas Naga",28.597034,77.134815,28.690231,76.940741,2 Wheeler,267,23.0,8
+2026-03-28 16:07:33 IST,291,"Delhi cantt Gopinath , Sham Singh Street","177,Baba Haridas Nagar Baba Haridas Naga",28.597034,77.134815,28.690231,76.940741,3 Wheeler,1186,0.0,8
+2026-03-28 16:07:33 IST,291,"Delhi cantt Gopinath , Sham Singh Street","177,Baba Haridas Nagar Baba Haridas Naga",28.597034,77.134815,28.690231,76.940741,Tata Ace,1423,0.0,4
+2026-03-28 16:07:33 IST,291,"Delhi cantt Gopinath , Sham Singh Street","177,Baba Haridas Nagar Baba Haridas Naga",28.597034,77.134815,28.690231,76.940741,Eeco,1309,0.0,5
+2026-03-28 16:07:33 IST,291,"Delhi cantt Gopinath , Sham Singh Street","177,Baba Haridas Nagar Baba Haridas Naga",28.597034,77.134815,28.690231,76.940741,Pickup 8ft,1693,0.0,1
+2026-03-28 16:07:33 IST,291,"Delhi cantt Gopinath , Sham Singh Street","177,Baba Haridas Nagar Baba Haridas Naga",28.597034,77.134815,28.690231,76.940741,E Loader,679,0.0,0
+2026-03-28 16:07:33 IST,291,"Delhi cantt Gopinath , Sham Singh Street","177,Baba Haridas Nagar Baba Haridas Naga",28.597034,77.134815,28.690231,76.940741,10ft,1957,0.0,5
+2026-03-28 16:07:33 IST,291,"Delhi cantt Gopinath , Sham Singh Street","177,Baba Haridas Nagar Baba Haridas Naga",28.597034,77.134815,28.690231,76.940741,14ft (Closed),3317,0.0,1
+2026-03-28 16:07:33 IST,291,"Delhi cantt Gopinath , Sham Singh Street","177,Baba Haridas Nagar Baba Haridas Naga",28.597034,77.134815,28.690231,76.940741,14ft,3732,0.0,1
+2026-03-28 16:07:33 IST,291,"Delhi cantt Gopinath , Sham Singh Street","177,Baba Haridas Nagar Baba Haridas Naga",28.597034,77.134815,28.690231,76.940741,14ft (Open),3732,0.0,0
+2026-03-28 16:07:33 IST,291,"Delhi cantt Gopinath , Sham Singh Street","177,Baba Haridas Nagar Baba Haridas Naga",28.597034,77.134815,28.690231,76.940741,17ft,4279,0.0,0
+2026-03-28 16:07:33 IST,291,"Delhi cantt Gopinath , Sham Singh Street","177,Baba Haridas Nagar Baba Haridas Naga",28.597034,77.134815,28.690231,76.940741,19ft,5577,0.0,0
+2026-03-28 16:07:48 IST,292,"Sector B-2, Trans Delhi Signature City, ","A158 Narela Industrial Estate, Narela",28.781475,77.268962,28.829651,77.10279,2 Wheeler,319,27.0,8
+2026-03-28 16:07:48 IST,292,"Sector B-2, Trans Delhi Signature City, ","A158 Narela Industrial Estate, Narela",28.781475,77.268962,28.829651,77.10279,3 Wheeler,1079,0.0,8
+2026-03-28 16:07:48 IST,292,"Sector B-2, Trans Delhi Signature City, ","A158 Narela Industrial Estate, Narela",28.781475,77.268962,28.829651,77.10279,Tata Ace,1368,0.0,8
+2026-03-28 16:07:48 IST,292,"Sector B-2, Trans Delhi Signature City, ","A158 Narela Industrial Estate, Narela",28.781475,77.268962,28.829651,77.10279,Eeco,1290,0.0,8
+2026-03-28 16:07:48 IST,292,"Sector B-2, Trans Delhi Signature City, ","A158 Narela Industrial Estate, Narela",28.781475,77.268962,28.829651,77.10279,Pickup 8ft,1713,0.0,8
+2026-03-28 16:07:48 IST,292,"Sector B-2, Trans Delhi Signature City, ","A158 Narela Industrial Estate, Narela",28.781475,77.268962,28.829651,77.10279,E Loader,919,0.0,3
+2026-03-28 16:07:48 IST,292,"Sector B-2, Trans Delhi Signature City, ","A158 Narela Industrial Estate, Narela",28.781475,77.268962,28.829651,77.10279,10ft,2146,0.0,4
+2026-03-28 16:07:48 IST,292,"Sector B-2, Trans Delhi Signature City, ","A158 Narela Industrial Estate, Narela",28.781475,77.268962,28.829651,77.10279,14ft (Closed),3870,0.0,0
+2026-03-28 16:07:48 IST,292,"Sector B-2, Trans Delhi Signature City, ","A158 Narela Industrial Estate, Narela",28.781475,77.268962,28.829651,77.10279,14ft,4053,0.0,1
+2026-03-28 16:07:48 IST,292,"Sector B-2, Trans Delhi Signature City, ","A158 Narela Industrial Estate, Narela",28.781475,77.268962,28.829651,77.10279,14ft (Open),4053,0.0,1
+2026-03-28 16:07:48 IST,292,"Sector B-2, Trans Delhi Signature City, ","A158 Narela Industrial Estate, Narela",28.781475,77.268962,28.829651,77.10279,17ft,4324,0.0,4
+2026-03-28 16:07:48 IST,292,"Sector B-2, Trans Delhi Signature City, ","A158 Narela Industrial Estate, Narela",28.781475,77.268962,28.829651,77.10279,19ft,6008,0.0,0
+2026-03-28 16:08:04 IST,293,"1/6,Munshi Ram Shetti Marg,Block 22,West","4th Floor,M3M Soulitude,S-14,Sector 89 ,",28.653269,77.168468,28.420456,76.946725,2 Wheeler,366,31.0,8
+2026-03-28 16:08:04 IST,293,"1/6,Munshi Ram Shetti Marg,Block 22,West","4th Floor,M3M Soulitude,S-14,Sector 89 ,",28.653269,77.168468,28.420456,76.946725,3 Wheeler,1266,0.0,6
+2026-03-28 16:08:04 IST,293,"1/6,Munshi Ram Shetti Marg,Block 22,West","4th Floor,M3M Soulitude,S-14,Sector 89 ,",28.653269,77.168468,28.420456,76.946725,Tata Ace,1585,0.0,8
+2026-03-28 16:08:04 IST,293,"1/6,Munshi Ram Shetti Marg,Block 22,West","4th Floor,M3M Soulitude,S-14,Sector 89 ,",28.653269,77.168468,28.420456,76.946725,Eeco,1445,0.0,3
+2026-03-28 16:08:04 IST,293,"1/6,Munshi Ram Shetti Marg,Block 22,West","4th Floor,M3M Soulitude,S-14,Sector 89 ,",28.653269,77.168468,28.420456,76.946725,Pickup 8ft,1996,0.0,5
+2026-03-28 16:08:04 IST,293,"1/6,Munshi Ram Shetti Marg,Block 22,West","4th Floor,M3M Soulitude,S-14,Sector 89 ,",28.653269,77.168468,28.420456,76.946725,E Loader,883,0.0,0
+2026-03-28 16:08:04 IST,293,"1/6,Munshi Ram Shetti Marg,Block 22,West","4th Floor,M3M Soulitude,S-14,Sector 89 ,",28.653269,77.168468,28.420456,76.946725,10ft,2999,0.0,3
+2026-03-28 16:08:04 IST,293,"1/6,Munshi Ram Shetti Marg,Block 22,West","4th Floor,M3M Soulitude,S-14,Sector 89 ,",28.653269,77.168468,28.420456,76.946725,14ft (Closed),4311,0.0,0
+2026-03-28 16:08:04 IST,293,"1/6,Munshi Ram Shetti Marg,Block 22,West","4th Floor,M3M Soulitude,S-14,Sector 89 ,",28.653269,77.168468,28.420456,76.946725,14ft,4845,0.0,0
+2026-03-28 16:08:04 IST,293,"1/6,Munshi Ram Shetti Marg,Block 22,West","4th Floor,M3M Soulitude,S-14,Sector 89 ,",28.653269,77.168468,28.420456,76.946725,14ft (Open),4845,0.0,0
+2026-03-28 16:08:04 IST,293,"1/6,Munshi Ram Shetti Marg,Block 22,West","4th Floor,M3M Soulitude,S-14,Sector 89 ,",28.653269,77.168468,28.420456,76.946725,17ft,5577,0.0,0
+2026-03-28 16:08:04 IST,293,"1/6,Munshi Ram Shetti Marg,Block 22,West","4th Floor,M3M Soulitude,S-14,Sector 89 ,",28.653269,77.168468,28.420456,76.946725,19ft,6393,0.0,0
+2026-03-28 16:08:21 IST,294,"Block 48D, Beadonpura, Karol Bagh, Delhi","6B,Sarurpur Industrial Area,Sector 53 , ",28.649572,77.19722,28.346229,77.269462,2 Wheeler,401,34.0,8
+2026-03-28 16:08:21 IST,294,"Block 48D, Beadonpura, Karol Bagh, Delhi","6B,Sarurpur Industrial Area,Sector 53 , ",28.649572,77.19722,28.346229,77.269462,3 Wheeler,1629,0.0,8
+2026-03-28 16:08:21 IST,294,"Block 48D, Beadonpura, Karol Bagh, Delhi","6B,Sarurpur Industrial Area,Sector 53 , ",28.649572,77.19722,28.346229,77.269462,Tata Ace,1918,0.0,3
+2026-03-28 16:08:21 IST,294,"Block 48D, Beadonpura, Karol Bagh, Delhi","6B,Sarurpur Industrial Area,Sector 53 , ",28.649572,77.19722,28.346229,77.269462,Eeco,1770,0.0,0
+2026-03-28 16:08:21 IST,294,"Block 48D, Beadonpura, Karol Bagh, Delhi","6B,Sarurpur Industrial Area,Sector 53 , ",28.649572,77.19722,28.346229,77.269462,Pickup 8ft,2350,0.0,3
+2026-03-28 16:08:21 IST,294,"Block 48D, Beadonpura, Karol Bagh, Delhi","6B,Sarurpur Industrial Area,Sector 53 , ",28.649572,77.19722,28.346229,77.269462,E Loader,1101,0.0,0
+2026-03-28 16:08:21 IST,294,"Block 48D, Beadonpura, Karol Bagh, Delhi","6B,Sarurpur Industrial Area,Sector 53 , ",28.649572,77.19722,28.346229,77.269462,10ft,3275,0.0,1
+2026-03-28 16:08:21 IST,294,"Block 48D, Beadonpura, Karol Bagh, Delhi","6B,Sarurpur Industrial Area,Sector 53 , ",28.649572,77.19722,28.346229,77.269462,14ft (Closed),4619,0.0,1
+2026-03-28 16:08:21 IST,294,"Block 48D, Beadonpura, Karol Bagh, Delhi","6B,Sarurpur Industrial Area,Sector 53 , ",28.649572,77.19722,28.346229,77.269462,14ft,5192,0.0,1
+2026-03-28 16:08:21 IST,294,"Block 48D, Beadonpura, Karol Bagh, Delhi","6B,Sarurpur Industrial Area,Sector 53 , ",28.649572,77.19722,28.346229,77.269462,14ft (Open),5192,0.0,0
+2026-03-28 16:08:21 IST,294,"Block 48D, Beadonpura, Karol Bagh, Delhi","6B,Sarurpur Industrial Area,Sector 53 , ",28.649572,77.19722,28.346229,77.269462,17ft,5986,0.0,1
+2026-03-28 16:08:21 IST,294,"Block 48D, Beadonpura, Karol Bagh, Delhi","6B,Sarurpur Industrial Area,Sector 53 , ",28.649572,77.19722,28.346229,77.269462,19ft,6810,0.0,0
+2026-03-28 16:08:34 IST,295,"1/6,Munshi Ram Shetti Marg,Block 22,West","Smart world gems,N 69,Sector 89 , Sector",28.653269,77.168468,28.425343,76.943893,2 Wheeler,346,30.0,8
+2026-03-28 16:08:34 IST,295,"1/6,Munshi Ram Shetti Marg,Block 22,West","Smart world gems,N 69,Sector 89 , Sector",28.653269,77.168468,28.425343,76.943893,3 Wheeler,1227,0.0,6
+2026-03-28 16:08:34 IST,295,"1/6,Munshi Ram Shetti Marg,Block 22,West","Smart world gems,N 69,Sector 89 , Sector",28.653269,77.168468,28.425343,76.943893,Tata Ace,1538,0.0,8
+2026-03-28 16:08:34 IST,295,"1/6,Munshi Ram Shetti Marg,Block 22,West","Smart world gems,N 69,Sector 89 , Sector",28.653269,77.168468,28.425343,76.943893,Eeco,1404,0.0,3
+2026-03-28 16:08:34 IST,295,"1/6,Munshi Ram Shetti Marg,Block 22,West","Smart world gems,N 69,Sector 89 , Sector",28.653269,77.168468,28.425343,76.943893,Pickup 8ft,1935,0.0,5
+2026-03-28 16:08:34 IST,295,"1/6,Munshi Ram Shetti Marg,Block 22,West","Smart world gems,N 69,Sector 89 , Sector",28.653269,77.168468,28.425343,76.943893,E Loader,849,0.0,0
+2026-03-28 16:08:34 IST,295,"1/6,Munshi Ram Shetti Marg,Block 22,West","Smart world gems,N 69,Sector 89 , Sector",28.653269,77.168468,28.425343,76.943893,10ft,2928,0.0,3
+2026-03-28 16:08:34 IST,295,"1/6,Munshi Ram Shetti Marg,Block 22,West","Smart world gems,N 69,Sector 89 , Sector",28.653269,77.168468,28.425343,76.943893,14ft (Closed),4214,0.0,0
+2026-03-28 16:08:34 IST,295,"1/6,Munshi Ram Shetti Marg,Block 22,West","Smart world gems,N 69,Sector 89 , Sector",28.653269,77.168468,28.425343,76.943893,14ft,4723,0.0,0
+2026-03-28 16:08:34 IST,295,"1/6,Munshi Ram Shetti Marg,Block 22,West","Smart world gems,N 69,Sector 89 , Sector",28.653269,77.168468,28.425343,76.943893,14ft (Open),4723,0.0,0
+2026-03-28 16:08:34 IST,295,"1/6,Munshi Ram Shetti Marg,Block 22,West","Smart world gems,N 69,Sector 89 , Sector",28.653269,77.168468,28.425343,76.943893,17ft,5419,0.0,0
+2026-03-28 16:08:34 IST,295,"1/6,Munshi Ram Shetti Marg,Block 22,West","Smart world gems,N 69,Sector 89 , Sector",28.653269,77.168468,28.425343,76.943893,19ft,6230,0.0,0
+2026-03-28 16:08:49 IST,296,KN/14/22 Nangli Sakrawati,"37 , Lal Dora, Block A, Mohan Garden",28.622426,77.002735,28.636105,77.033024,2 Wheeler,74,6.0,8
+2026-03-28 16:08:49 IST,296,KN/14/22 Nangli Sakrawati,"37 , Lal Dora, Block A, Mohan Garden",28.622426,77.002735,28.636105,77.033024,3 Wheeler,396,0.0,8
+2026-03-28 16:08:49 IST,296,KN/14/22 Nangli Sakrawati,"37 , Lal Dora, Block A, Mohan Garden",28.622426,77.002735,28.636105,77.033024,Tata Ace,584,0.0,8
+2026-03-28 16:08:49 IST,296,KN/14/22 Nangli Sakrawati,"37 , Lal Dora, Block A, Mohan Garden",28.622426,77.002735,28.636105,77.033024,Eeco,489,0.0,4
+2026-03-28 16:08:49 IST,296,KN/14/22 Nangli Sakrawati,"37 , Lal Dora, Block A, Mohan Garden",28.622426,77.002735,28.636105,77.033024,Pickup 8ft,742,0.0,8
+2026-03-28 16:08:49 IST,296,KN/14/22 Nangli Sakrawati,"37 , Lal Dora, Block A, Mohan Garden",28.622426,77.002735,28.636105,77.033024,E Loader,304,0.0,5
+2026-03-28 16:08:49 IST,296,KN/14/22 Nangli Sakrawati,"37 , Lal Dora, Block A, Mohan Garden",28.622426,77.002735,28.636105,77.033024,10ft,1067,0.0,5
+2026-03-28 16:08:49 IST,296,KN/14/22 Nangli Sakrawati,"37 , Lal Dora, Block A, Mohan Garden",28.622426,77.002735,28.636105,77.033024,14ft (Closed),2159,0.0,6
+2026-03-28 16:08:49 IST,296,KN/14/22 Nangli Sakrawati,"37 , Lal Dora, Block A, Mohan Garden",28.622426,77.002735,28.636105,77.033024,14ft,2334,0.0,8
+2026-03-28 16:08:49 IST,296,KN/14/22 Nangli Sakrawati,"37 , Lal Dora, Block A, Mohan Garden",28.622426,77.002735,28.636105,77.033024,14ft (Open),2334,0.0,4
+2026-03-28 16:08:49 IST,296,KN/14/22 Nangli Sakrawati,"37 , Lal Dora, Block A, Mohan Garden",28.622426,77.002735,28.636105,77.033024,17ft,2949,0.0,0
+2026-03-28 16:08:49 IST,296,KN/14/22 Nangli Sakrawati,"37 , Lal Dora, Block A, Mohan Garden",28.622426,77.002735,28.636105,77.033024,19ft,4127,0.0,0
+2026-03-28 16:09:02 IST,297,"Kalkaji Depot,Ma Anandmayee Marg,Bal Muk",34/18 Tikri Kalan,28.539468,77.266175,28.685686,76.962822,2 Wheeler,368,32.0,8
+2026-03-28 16:09:02 IST,297,"Kalkaji Depot,Ma Anandmayee Marg,Bal Muk",34/18 Tikri Kalan,28.539468,77.266175,28.685686,76.962822,3 Wheeler,1079,0.0,8
+2026-03-28 16:09:02 IST,297,"Kalkaji Depot,Ma Anandmayee Marg,Bal Muk",34/18 Tikri Kalan,28.539468,77.266175,28.685686,76.962822,Tata Ace,1398,0.0,8
+2026-03-28 16:09:02 IST,297,"Kalkaji Depot,Ma Anandmayee Marg,Bal Muk",34/18 Tikri Kalan,28.539468,77.266175,28.685686,76.962822,Eeco,1258,0.0,8
+2026-03-28 16:09:02 IST,297,"Kalkaji Depot,Ma Anandmayee Marg,Bal Muk",34/18 Tikri Kalan,28.539468,77.266175,28.685686,76.962822,Pickup 8ft,1696,0.0,8
+2026-03-28 16:09:02 IST,297,"Kalkaji Depot,Ma Anandmayee Marg,Bal Muk",34/18 Tikri Kalan,28.539468,77.266175,28.685686,76.962822,E Loader,896,0.0,1
+2026-03-28 16:09:02 IST,297,"Kalkaji Depot,Ma Anandmayee Marg,Bal Muk",34/18 Tikri Kalan,28.539468,77.266175,28.685686,76.962822,10ft,2266,0.0,0
+2026-03-28 16:09:02 IST,297,"Kalkaji Depot,Ma Anandmayee Marg,Bal Muk",34/18 Tikri Kalan,28.539468,77.266175,28.685686,76.962822,14ft (Closed),3884,0.0,2
+2026-03-28 16:09:02 IST,297,"Kalkaji Depot,Ma Anandmayee Marg,Bal Muk",34/18 Tikri Kalan,28.539468,77.266175,28.685686,76.962822,14ft,4601,0.0,2
+2026-03-28 16:09:02 IST,297,"Kalkaji Depot,Ma Anandmayee Marg,Bal Muk",34/18 Tikri Kalan,28.539468,77.266175,28.685686,76.962822,14ft (Open),4601,0.0,0
+2026-03-28 16:09:02 IST,297,"Kalkaji Depot,Ma Anandmayee Marg,Bal Muk",34/18 Tikri Kalan,28.539468,77.266175,28.685686,76.962822,17ft,4996,0.0,0
+2026-03-28 16:09:02 IST,297,"Kalkaji Depot,Ma Anandmayee Marg,Bal Muk",34/18 Tikri Kalan,28.539468,77.266175,28.685686,76.962822,19ft,6209,0.0,0
+2026-03-28 16:09:14 IST,298,"Indian hernes Panna Kalyan, Tikri Kalan","a-54 , A-54, DDA Shed, Block A, Okhla Ph",28.682582,76.964983,28.532515,77.271495,2 Wheeler,366,31.0,8
+2026-03-28 16:09:14 IST,298,"Indian hernes Panna Kalyan, Tikri Kalan","a-54 , A-54, DDA Shed, Block A, Okhla Ph",28.682582,76.964983,28.532515,77.271495,3 Wheeler,1201,0.0,8
+2026-03-28 16:09:14 IST,298,"Indian hernes Panna Kalyan, Tikri Kalan","a-54 , A-54, DDA Shed, Block A, Okhla Ph",28.682582,76.964983,28.532515,77.271495,Tata Ace,1437,0.0,8
+2026-03-28 16:09:14 IST,298,"Indian hernes Panna Kalyan, Tikri Kalan","a-54 , A-54, DDA Shed, Block A, Okhla Ph",28.682582,76.964983,28.532515,77.271495,Eeco,1292,0.0,8
+2026-03-28 16:09:14 IST,298,"Indian hernes Panna Kalyan, Tikri Kalan","a-54 , A-54, DDA Shed, Block A, Okhla Ph",28.682582,76.964983,28.532515,77.271495,Pickup 8ft,1862,0.0,8
+2026-03-28 16:09:14 IST,298,"Indian hernes Panna Kalyan, Tikri Kalan","a-54 , A-54, DDA Shed, Block A, Okhla Ph",28.682582,76.964983,28.532515,77.271495,E Loader,922,0.0,0
+2026-03-28 16:09:14 IST,298,"Indian hernes Panna Kalyan, Tikri Kalan","a-54 , A-54, DDA Shed, Block A, Okhla Ph",28.682582,76.964983,28.532515,77.271495,10ft,2329,0.0,4
+2026-03-28 16:09:14 IST,298,"Indian hernes Panna Kalyan, Tikri Kalan","a-54 , A-54, DDA Shed, Block A, Okhla Ph",28.682582,76.964983,28.532515,77.271495,14ft (Closed),3815,0.0,2
+2026-03-28 16:09:14 IST,298,"Indian hernes Panna Kalyan, Tikri Kalan","a-54 , A-54, DDA Shed, Block A, Okhla Ph",28.682582,76.964983,28.532515,77.271495,14ft,4375,0.0,8
+2026-03-28 16:09:14 IST,298,"Indian hernes Panna Kalyan, Tikri Kalan","a-54 , A-54, DDA Shed, Block A, Okhla Ph",28.682582,76.964983,28.532515,77.271495,14ft (Open),4375,0.0,8
+2026-03-28 16:09:14 IST,298,"Indian hernes Panna Kalyan, Tikri Kalan","a-54 , A-54, DDA Shed, Block A, Okhla Ph",28.682582,76.964983,28.532515,77.271495,17ft,4724,0.0,3
+2026-03-28 16:09:14 IST,298,"Indian hernes Panna Kalyan, Tikri Kalan","a-54 , A-54, DDA Shed, Block A, Okhla Ph",28.682582,76.964983,28.532515,77.271495,19ft,6367,0.0,3
+2026-03-28 16:09:28 IST,299,"Block 48D, Beadonpura, Karol Bagh, Delhi","qqq , Greater Noida, Uttar Pradesh, 2032",28.649572,77.19722,28.553524,77.573405,2 Wheeler,404,35.0,8
+2026-03-28 16:09:28 IST,299,"Block 48D, Beadonpura, Karol Bagh, Delhi","qqq , Greater Noida, Uttar Pradesh, 2032",28.649572,77.19722,28.553524,77.573405,3 Wheeler,1597,0.0,4
+2026-03-28 16:09:28 IST,299,"Block 48D, Beadonpura, Karol Bagh, Delhi","qqq , Greater Noida, Uttar Pradesh, 2032",28.649572,77.19722,28.553524,77.573405,Tata Ace,1929,0.0,2
+2026-03-28 16:09:28 IST,299,"Block 48D, Beadonpura, Karol Bagh, Delhi","qqq , Greater Noida, Uttar Pradesh, 2032",28.649572,77.19722,28.553524,77.573405,Eeco,1779,0.0,2
+2026-03-28 16:09:28 IST,299,"Block 48D, Beadonpura, Karol Bagh, Delhi","qqq , Greater Noida, Uttar Pradesh, 2032",28.649572,77.19722,28.553524,77.573405,Pickup 8ft,2367,0.0,1
+2026-03-28 16:09:28 IST,299,"Block 48D, Beadonpura, Karol Bagh, Delhi","qqq , Greater Noida, Uttar Pradesh, 2032",28.649572,77.19722,28.553524,77.573405,E Loader,1103,0.0,0
+2026-03-28 16:09:28 IST,299,"Block 48D, Beadonpura, Karol Bagh, Delhi","qqq , Greater Noida, Uttar Pradesh, 2032",28.649572,77.19722,28.553524,77.573405,10ft,3293,0.0,1
+2026-03-28 16:09:28 IST,299,"Block 48D, Beadonpura, Karol Bagh, Delhi","qqq , Greater Noida, Uttar Pradesh, 2032",28.649572,77.19722,28.553524,77.573405,14ft (Closed),4651,0.0,1
+2026-03-28 16:09:28 IST,299,"Block 48D, Beadonpura, Karol Bagh, Delhi","qqq , Greater Noida, Uttar Pradesh, 2032",28.649572,77.19722,28.553524,77.573405,14ft,5234,0.0,1
+2026-03-28 16:09:28 IST,299,"Block 48D, Beadonpura, Karol Bagh, Delhi","qqq , Greater Noida, Uttar Pradesh, 2032",28.649572,77.19722,28.553524,77.573405,14ft (Open),5234,0.0,0
+2026-03-28 16:09:28 IST,299,"Block 48D, Beadonpura, Karol Bagh, Delhi","qqq , Greater Noida, Uttar Pradesh, 2032",28.649572,77.19722,28.553524,77.573405,17ft,6038,0.0,1
+2026-03-28 16:09:28 IST,299,"Block 48D, Beadonpura, Karol Bagh, Delhi","qqq , Greater Noida, Uttar Pradesh, 2032",28.649572,77.19722,28.553524,77.573405,19ft,6863,0.0,0
+2026-03-28 16:09:42 IST,300,"c-113 , Sector 9 ,201301, Gautam Buddha ","F94,Sector 3,Bawana Bawana 110039, North",28.58695,77.326999,28.78279,77.053387,2 Wheeler,428,37.0,8
+2026-03-28 16:09:42 IST,300,"c-113 , Sector 9 ,201301, Gautam Buddha ","F94,Sector 3,Bawana Bawana 110039, North",28.58695,77.326999,28.78279,77.053387,3 Wheeler,1336,0.0,8
+2026-03-28 16:09:42 IST,300,"c-113 , Sector 9 ,201301, Gautam Buddha ","F94,Sector 3,Bawana Bawana 110039, North",28.58695,77.326999,28.78279,77.053387,Tata Ace,1637,0.0,8
+2026-03-28 16:09:42 IST,300,"c-113 , Sector 9 ,201301, Gautam Buddha ","F94,Sector 3,Bawana Bawana 110039, North",28.58695,77.326999,28.78279,77.053387,Eeco,1523,0.0,6
+2026-03-28 16:09:42 IST,300,"c-113 , Sector 9 ,201301, Gautam Buddha ","F94,Sector 3,Bawana Bawana 110039, North",28.58695,77.326999,28.78279,77.053387,Pickup 8ft,1993,0.0,4
+2026-03-28 16:09:42 IST,300,"c-113 , Sector 9 ,201301, Gautam Buddha ","F94,Sector 3,Bawana Bawana 110039, North",28.58695,77.326999,28.78279,77.053387,E Loader,1150,0.0,8
+2026-03-28 16:09:42 IST,300,"c-113 , Sector 9 ,201301, Gautam Buddha ","F94,Sector 3,Bawana Bawana 110039, North",28.58695,77.326999,28.78279,77.053387,10ft,2731,0.0,0
+2026-03-28 16:09:42 IST,300,"c-113 , Sector 9 ,201301, Gautam Buddha ","F94,Sector 3,Bawana Bawana 110039, North",28.58695,77.326999,28.78279,77.053387,14ft (Closed),4612,0.0,0
+2026-03-28 16:09:42 IST,300,"c-113 , Sector 9 ,201301, Gautam Buddha ","F94,Sector 3,Bawana Bawana 110039, North",28.58695,77.326999,28.78279,77.053387,14ft,5244,0.0,0
+2026-03-28 16:09:42 IST,300,"c-113 , Sector 9 ,201301, Gautam Buddha ","F94,Sector 3,Bawana Bawana 110039, North",28.58695,77.326999,28.78279,77.053387,14ft (Open),5244,0.0,0
+2026-03-28 16:09:42 IST,300,"c-113 , Sector 9 ,201301, Gautam Buddha ","F94,Sector 3,Bawana Bawana 110039, North",28.58695,77.326999,28.78279,77.053387,17ft,5715,0.0,2
+2026-03-28 16:09:42 IST,300,"c-113 , Sector 9 ,201301, Gautam Buddha ","F94,Sector 3,Bawana Bawana 110039, North",28.58695,77.326999,28.78279,77.053387,19ft,7043,0.0,0
+2026-03-28 16:09:55 IST,301,"a-54 , A-54, DDA Shed, Block A, Okhla Ph","144, DSIIDC Industrial Area, Vijay Nagar",28.532515,77.271495,28.803568,77.044724,2 Wheeler,463,40.0,8
+2026-03-28 16:09:55 IST,301,"a-54 , A-54, DDA Shed, Block A, Okhla Ph","144, DSIIDC Industrial Area, Vijay Nagar",28.532515,77.271495,28.803568,77.044724,3 Wheeler,1283,0.0,8
+2026-03-28 16:09:55 IST,301,"a-54 , A-54, DDA Shed, Block A, Okhla Ph","144, DSIIDC Industrial Area, Vijay Nagar",28.532515,77.271495,28.803568,77.044724,Tata Ace,1633,0.0,8
+2026-03-28 16:09:55 IST,301,"a-54 , A-54, DDA Shed, Block A, Okhla Ph","144, DSIIDC Industrial Area, Vijay Nagar",28.532515,77.271495,28.803568,77.044724,Eeco,1468,0.0,8
+2026-03-28 16:09:55 IST,301,"a-54 , A-54, DDA Shed, Block A, Okhla Ph","144, DSIIDC Industrial Area, Vijay Nagar",28.532515,77.271495,28.803568,77.044724,Pickup 8ft,1956,0.0,8
+2026-03-28 16:09:55 IST,301,"a-54 , A-54, DDA Shed, Block A, Okhla Ph","144, DSIIDC Industrial Area, Vijay Nagar",28.532515,77.271495,28.803568,77.044724,E Loader,1224,0.0,1
+2026-03-28 16:09:55 IST,301,"a-54 , A-54, DDA Shed, Block A, Okhla Ph","144, DSIIDC Industrial Area, Vijay Nagar",28.532515,77.271495,28.803568,77.044724,10ft,2621,0.0,0
+2026-03-28 16:09:55 IST,301,"a-54 , A-54, DDA Shed, Block A, Okhla Ph","144, DSIIDC Industrial Area, Vijay Nagar",28.532515,77.271495,28.803568,77.044724,14ft (Closed),4367,0.0,4
+2026-03-28 16:09:55 IST,301,"a-54 , A-54, DDA Shed, Block A, Okhla Ph","144, DSIIDC Industrial Area, Vijay Nagar",28.532515,77.271495,28.803568,77.044724,14ft,5227,0.0,5
+2026-03-28 16:09:55 IST,301,"a-54 , A-54, DDA Shed, Block A, Okhla Ph","144, DSIIDC Industrial Area, Vijay Nagar",28.532515,77.271495,28.803568,77.044724,14ft (Open),5227,0.0,0
+2026-03-28 16:09:55 IST,301,"a-54 , A-54, DDA Shed, Block A, Okhla Ph","144, DSIIDC Industrial Area, Vijay Nagar",28.532515,77.271495,28.803568,77.044724,17ft,5716,0.0,1
+2026-03-28 16:09:55 IST,301,"a-54 , A-54, DDA Shed, Block A, Okhla Ph","144, DSIIDC Industrial Area, Vijay Nagar",28.532515,77.271495,28.803568,77.044724,19ft,6947,0.0,0
+2026-03-28 16:10:09 IST,302,"4th Floor,M3M Soulitude,S-14,Sector 89 ,","A29, DSIIDC Industrial Area, Vijay Nagar",28.420456,76.946725,28.799736,77.040615,2 Wheeler,492,42.0,8
+2026-03-28 16:10:09 IST,302,"4th Floor,M3M Soulitude,S-14,Sector 89 ,","A29, DSIIDC Industrial Area, Vijay Nagar",28.420456,76.946725,28.799736,77.040615,3 Wheeler,1548,0.0,8
+2026-03-28 16:10:09 IST,302,"4th Floor,M3M Soulitude,S-14,Sector 89 ,","A29, DSIIDC Industrial Area, Vijay Nagar",28.420456,76.946725,28.799736,77.040615,Tata Ace,1873,0.0,8
+2026-03-28 16:10:09 IST,302,"4th Floor,M3M Soulitude,S-14,Sector 89 ,","A29, DSIIDC Industrial Area, Vijay Nagar",28.420456,76.946725,28.799736,77.040615,Eeco,1699,0.0,4
+2026-03-28 16:10:09 IST,302,"4th Floor,M3M Soulitude,S-14,Sector 89 ,","A29, DSIIDC Industrial Area, Vijay Nagar",28.420456,76.946725,28.799736,77.040615,Pickup 8ft,2206,0.0,8
+2026-03-28 16:10:09 IST,302,"4th Floor,M3M Soulitude,S-14,Sector 89 ,","A29, DSIIDC Industrial Area, Vijay Nagar",28.420456,76.946725,28.799736,77.040615,E Loader,1154,0.0,2
+2026-03-28 16:10:09 IST,302,"4th Floor,M3M Soulitude,S-14,Sector 89 ,","A29, DSIIDC Industrial Area, Vijay Nagar",28.420456,76.946725,28.799736,77.040615,10ft,2907,0.0,8
+2026-03-28 16:10:09 IST,302,"4th Floor,M3M Soulitude,S-14,Sector 89 ,","A29, DSIIDC Industrial Area, Vijay Nagar",28.420456,76.946725,28.799736,77.040615,14ft (Closed),4904,0.0,0
+2026-03-28 16:10:09 IST,302,"4th Floor,M3M Soulitude,S-14,Sector 89 ,","A29, DSIIDC Industrial Area, Vijay Nagar",28.420456,76.946725,28.799736,77.040615,14ft,5638,0.0,2
+2026-03-28 16:10:09 IST,302,"4th Floor,M3M Soulitude,S-14,Sector 89 ,","A29, DSIIDC Industrial Area, Vijay Nagar",28.420456,76.946725,28.799736,77.040615,14ft (Open),5638,0.0,2
+2026-03-28 16:10:09 IST,302,"4th Floor,M3M Soulitude,S-14,Sector 89 ,","A29, DSIIDC Industrial Area, Vijay Nagar",28.420456,76.946725,28.799736,77.040615,17ft,6148,0.0,0
+2026-03-28 16:10:09 IST,302,"4th Floor,M3M Soulitude,S-14,Sector 89 ,","A29, DSIIDC Industrial Area, Vijay Nagar",28.420456,76.946725,28.799736,77.040615,19ft,7484,0.0,1
+2026-03-28 16:10:22 IST,303,"Smart world gems,N 69,Sector 89 , Sector","5, DSIIDC Industrial Area, Sector 5 Bawa",28.425343,76.943893,28.794597,77.041228,2 Wheeler,453,39.0,8
+2026-03-28 16:10:22 IST,303,"Smart world gems,N 69,Sector 89 , Sector","5, DSIIDC Industrial Area, Sector 5 Bawa",28.425343,76.943893,28.794597,77.041228,3 Wheeler,1446,0.0,8
+2026-03-28 16:10:22 IST,303,"Smart world gems,N 69,Sector 89 , Sector","5, DSIIDC Industrial Area, Sector 5 Bawa",28.425343,76.943893,28.794597,77.041228,Tata Ace,1761,0.0,8
+2026-03-28 16:10:22 IST,303,"Smart world gems,N 69,Sector 89 , Sector","5, DSIIDC Industrial Area, Sector 5 Bawa",28.425343,76.943893,28.794597,77.041228,Eeco,1597,0.0,3
+2026-03-28 16:10:22 IST,303,"Smart world gems,N 69,Sector 89 , Sector","5, DSIIDC Industrial Area, Sector 5 Bawa",28.425343,76.943893,28.794597,77.041228,Pickup 8ft,2083,0.0,8
+2026-03-28 16:10:22 IST,303,"Smart world gems,N 69,Sector 89 , Sector","5, DSIIDC Industrial Area, Sector 5 Bawa",28.425343,76.943893,28.794597,77.041228,E Loader,1065,0.0,1
+2026-03-28 16:10:22 IST,303,"Smart world gems,N 69,Sector 89 , Sector","5, DSIIDC Industrial Area, Sector 5 Bawa",28.425343,76.943893,28.794597,77.041228,10ft,2741,0.0,8
+2026-03-28 16:10:22 IST,303,"Smart world gems,N 69,Sector 89 , Sector","5, DSIIDC Industrial Area, Sector 5 Bawa",28.425343,76.943893,28.794597,77.041228,14ft (Closed),4678,0.0,0
+2026-03-28 16:10:22 IST,303,"Smart world gems,N 69,Sector 89 , Sector","5, DSIIDC Industrial Area, Sector 5 Bawa",28.425343,76.943893,28.794597,77.041228,14ft,5360,0.0,2
+2026-03-28 16:10:22 IST,303,"Smart world gems,N 69,Sector 89 , Sector","5, DSIIDC Industrial Area, Sector 5 Bawa",28.425343,76.943893,28.794597,77.041228,14ft (Open),5360,0.0,2
+2026-03-28 16:10:22 IST,303,"Smart world gems,N 69,Sector 89 , Sector","5, DSIIDC Industrial Area, Sector 5 Bawa",28.425343,76.943893,28.794597,77.041228,17ft,5851,0.0,0
+2026-03-28 16:10:22 IST,303,"Smart world gems,N 69,Sector 89 , Sector","5, DSIIDC Industrial Area, Sector 5 Bawa",28.425343,76.943893,28.794597,77.041228,19ft,7182,0.0,1
+2026-03-28 16:10:38 IST,304,"6B,Sarurpur Industrial Area,Sector 53 , ","52, Pocket D, Sector 2, Bawana, New Delh",28.346229,77.269462,28.793292,77.0553,2 Wheeler,640,55.0,8
+2026-03-28 16:10:38 IST,304,"6B,Sarurpur Industrial Area,Sector 53 , ","52, Pocket D, Sector 2, Bawana, New Delh",28.346229,77.269462,28.793292,77.0553,3 Wheeler,1884,0.0,8
+2026-03-28 16:10:38 IST,304,"6B,Sarurpur Industrial Area,Sector 53 , ","52, Pocket D, Sector 2, Bawana, New Delh",28.346229,77.269462,28.793292,77.0553,Tata Ace,2255,0.0,8
+2026-03-28 16:10:38 IST,304,"6B,Sarurpur Industrial Area,Sector 53 , ","52, Pocket D, Sector 2, Bawana, New Delh",28.346229,77.269462,28.793292,77.0553,Eeco,2041,0.0,8
+2026-03-28 16:10:38 IST,304,"6B,Sarurpur Industrial Area,Sector 53 , ","52, Pocket D, Sector 2, Bawana, New Delh",28.346229,77.269462,28.793292,77.0553,Pickup 8ft,2627,0.0,8
+2026-03-28 16:10:38 IST,304,"6B,Sarurpur Industrial Area,Sector 53 , ","52, Pocket D, Sector 2, Bawana, New Delh",28.346229,77.269462,28.793292,77.0553,E Loader,1640,0.0,0
+2026-03-28 16:10:38 IST,304,"6B,Sarurpur Industrial Area,Sector 53 , ","52, Pocket D, Sector 2, Bawana, New Delh",28.346229,77.269462,28.793292,77.0553,10ft,3500,0.0,8
+2026-03-28 16:10:38 IST,304,"6B,Sarurpur Industrial Area,Sector 53 , ","52, Pocket D, Sector 2, Bawana, New Delh",28.346229,77.269462,28.793292,77.0553,14ft (Closed),5711,0.0,2
+2026-03-28 16:10:38 IST,304,"6B,Sarurpur Industrial Area,Sector 53 , ","52, Pocket D, Sector 2, Bawana, New Delh",28.346229,77.269462,28.793292,77.0553,14ft,6630,0.0,4
+2026-03-28 16:10:38 IST,304,"6B,Sarurpur Industrial Area,Sector 53 , ","52, Pocket D, Sector 2, Bawana, New Delh",28.346229,77.269462,28.793292,77.0553,14ft (Open),6630,0.0,2
+2026-03-28 16:10:38 IST,304,"6B,Sarurpur Industrial Area,Sector 53 , ","52, Pocket D, Sector 2, Bawana, New Delh",28.346229,77.269462,28.793292,77.0553,17ft,7211,0.0,3
+2026-03-28 16:10:38 IST,304,"6B,Sarurpur Industrial Area,Sector 53 , ","52, Pocket D, Sector 2, Bawana, New Delh",28.346229,77.269462,28.793292,77.0553,19ft,8566,0.0,1
+2026-03-28 16:10:54 IST,305,"qqq , Greater Noida, Uttar Pradesh, 2032","1023,Puth Khurd Puth Khurd 110039, North",28.553524,77.573405,28.767052,77.048685,2 Wheeler,647,56.0,8
+2026-03-28 16:10:54 IST,305,"qqq , Greater Noida, Uttar Pradesh, 2032","1023,Puth Khurd Puth Khurd 110039, North",28.553524,77.573405,28.767052,77.048685,3 Wheeler,2085,0.0,3
+2026-03-28 16:10:54 IST,305,"qqq , Greater Noida, Uttar Pradesh, 2032","1023,Puth Khurd Puth Khurd 110039, North",28.553524,77.573405,28.767052,77.048685,Tata Ace,2428,0.0,0
+2026-03-28 16:10:54 IST,305,"qqq , Greater Noida, Uttar Pradesh, 2032","1023,Puth Khurd Puth Khurd 110039, North",28.553524,77.573405,28.767052,77.048685,Eeco,2212,0.0,2
+2026-03-28 16:10:54 IST,305,"qqq , Greater Noida, Uttar Pradesh, 2032","1023,Puth Khurd Puth Khurd 110039, North",28.553524,77.573405,28.767052,77.048685,Pickup 8ft,3031,0.0,1
+2026-03-28 16:10:54 IST,305,"qqq , Greater Noida, Uttar Pradesh, 2032","1023,Puth Khurd Puth Khurd 110039, North",28.553524,77.573405,28.767052,77.048685,E Loader,1664,0.0,0
+2026-03-28 16:10:54 IST,305,"qqq , Greater Noida, Uttar Pradesh, 2032","1023,Puth Khurd Puth Khurd 110039, North",28.553524,77.573405,28.767052,77.048685,10ft,3548,0.0,6
+2026-03-28 16:10:54 IST,305,"qqq , Greater Noida, Uttar Pradesh, 2032","1023,Puth Khurd Puth Khurd 110039, North",28.553524,77.573405,28.767052,77.048685,14ft (Closed),5775,0.0,0
+2026-03-28 16:10:54 IST,305,"qqq , Greater Noida, Uttar Pradesh, 2032","1023,Puth Khurd Puth Khurd 110039, North",28.553524,77.573405,28.767052,77.048685,14ft,6708,0.0,1
+2026-03-28 16:10:54 IST,305,"qqq , Greater Noida, Uttar Pradesh, 2032","1023,Puth Khurd Puth Khurd 110039, North",28.553524,77.573405,28.767052,77.048685,14ft (Open),6708,0.0,1
+2026-03-28 16:10:54 IST,305,"qqq , Greater Noida, Uttar Pradesh, 2032","1023,Puth Khurd Puth Khurd 110039, North",28.553524,77.573405,28.767052,77.048685,17ft,7294,0.0,2
+2026-03-28 16:10:54 IST,305,"qqq , Greater Noida, Uttar Pradesh, 2032","1023,Puth Khurd Puth Khurd 110039, North",28.553524,77.573405,28.767052,77.048685,19ft,8646,0.0,0
