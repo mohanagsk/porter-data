@@ -1,0 +1,97 @@
+timestamp,run_slot,location_id,location_name,pickup_lat,pickup_lng,drop_lat,drop_lng,vehicle_type,vehicle_id,fare,discount,coupon_code,driver_count,eta_mins,booking_enabled,low_supply,api_status
+2026-03-25T12:22:46.846655,12:00,1,"Shahzada Bagh , Phase 1, Shiva... -> M118,Block M,Shastri Nagar Sha...",28.64911,77.180388,28.670088,77.181859,2 Wheeler,97,78,6.0,DELHINCR2WHLR8,8,,True,False,success
+2026-03-25T12:22:46.846655,12:00,1,"Shahzada Bagh , Phase 1, Shiva... -> M118,Block M,Shastri Nagar Sha...",28.64911,77.180388,28.670088,77.181859,3 Wheeler,91,366,0.0,,6,,True,False,success
+2026-03-25T12:22:46.846655,12:00,1,"Shahzada Bagh , Phase 1, Shiva... -> M118,Block M,Shastri Nagar Sha...",28.64911,77.180388,28.670088,77.181859,Tata Ace,1,639,0.0,,4,,True,False,success
+2026-03-25T12:22:46.846655,12:00,1,"Shahzada Bagh , Phase 1, Shiva... -> M118,Block M,Shastri Nagar Sha...",28.64911,77.180388,28.670088,77.181859,Eeco,7,466,0.0,,0,,True,False,success
+2026-03-25T12:22:46.846655,12:00,1,"Shahzada Bagh , Phase 1, Shiva... -> M118,Block M,Shastri Nagar Sha...",28.64911,77.180388,28.670088,77.181859,Pickup 8ft,8,855,0.0,,1,,True,False,success
+2026-03-25T12:22:46.846655,12:00,1,"Shahzada Bagh , Phase 1, Shiva... -> M118,Block M,Shastri Nagar Sha...",28.64911,77.180388,28.670088,77.181859,E Loader,126,314,0.0,,1,,True,False,success
+2026-03-25T12:22:46.846655,12:00,1,"Shahzada Bagh , Phase 1, Shiva... -> M118,Block M,Shastri Nagar Sha...",28.64911,77.180388,28.670088,77.181859,10ft,1144,1683,0.0,,1,,True,False,success
+2026-03-25T12:22:46.846655,12:00,1,"Shahzada Bagh , Phase 1, Shiva... -> M118,Block M,Shastri Nagar Sha...",28.64911,77.180388,28.670088,77.181859,14ft (Closed),1148,2621,0.0,,0,,True,False,success
+2026-03-25T12:22:46.846655,12:00,1,"Shahzada Bagh , Phase 1, Shiva... -> M118,Block M,Shastri Nagar Sha...",28.64911,77.180388,28.670088,77.181859,14ft,1149,2789,0.0,,1,,True,False,success
+2026-03-25T12:22:46.846655,12:00,1,"Shahzada Bagh , Phase 1, Shiva... -> M118,Block M,Shastri Nagar Sha...",28.64911,77.180388,28.670088,77.181859,14ft (Open),1147,2789,0.0,,1,,True,False,success
+2026-03-25T12:22:46.846655,12:00,1,"Shahzada Bagh , Phase 1, Shiva... -> M118,Block M,Shastri Nagar Sha...",28.64911,77.180388,28.670088,77.181859,17ft,4,3428,0.0,,0,,True,False,success
+2026-03-25T12:22:46.846655,12:00,1,"Shahzada Bagh , Phase 1, Shiva... -> M118,Block M,Shastri Nagar Sha...",28.64911,77.180388,28.670088,77.181859,19ft,2161,4107,0.0,,0,,True,False,success
+2026-03-25T12:23:08.000037,12:00,2,"213,Gulshan Park,Mundka , Mund... -> Arpit , AM Steel Amar Colony, ...",28.682309,77.043944,28.682401,77.064732,2 Wheeler,97,58,5.0,DELHINCR2WHLR8,8,,True,False,success
+2026-03-25T12:23:08.000037,12:00,2,"213,Gulshan Park,Mundka , Mund... -> Arpit , AM Steel Amar Colony, ...",28.682309,77.043944,28.682401,77.064732,3 Wheeler,91,341,0.0,,8,,True,False,success
+2026-03-25T12:23:08.000037,12:00,2,"213,Gulshan Park,Mundka , Mund... -> Arpit , AM Steel Amar Colony, ...",28.682309,77.043944,28.682401,77.064732,Tata Ace,1,646,0.0,,8,,True,False,success
+2026-03-25T12:23:08.000037,12:00,2,"213,Gulshan Park,Mundka , Mund... -> Arpit , AM Steel Amar Colony, ...",28.682309,77.043944,28.682401,77.064732,Eeco,7,426,0.0,,3,,True,False,success
+2026-03-25T12:23:08.000037,12:00,2,"213,Gulshan Park,Mundka , Mund... -> Arpit , AM Steel Amar Colony, ...",28.682309,77.043944,28.682401,77.064732,Pickup 8ft,8,806,0.0,,8,,True,False,success
+2026-03-25T12:23:08.000037,12:00,2,"213,Gulshan Park,Mundka , Mund... -> Arpit , AM Steel Amar Colony, ...",28.682309,77.043944,28.682401,77.064732,E Loader,126,281,0.0,,5,,True,False,success
+2026-03-25T12:23:08.000037,12:00,2,"213,Gulshan Park,Mundka , Mund... -> Arpit , AM Steel Amar Colony, ...",28.682309,77.043944,28.682401,77.064732,10ft,1144,975,0.0,,7,,True,False,success
+2026-03-25T12:23:08.000037,12:00,2,"213,Gulshan Park,Mundka , Mund... -> Arpit , AM Steel Amar Colony, ...",28.682309,77.043944,28.682401,77.064732,14ft (Closed),1148,2056,0.0,,0,,True,False,success
+2026-03-25T12:23:08.000037,12:00,2,"213,Gulshan Park,Mundka , Mund... -> Arpit , AM Steel Amar Colony, ...",28.682309,77.043944,28.682401,77.064732,14ft,1149,2212,0.0,,2,,True,False,success
+2026-03-25T12:23:08.000037,12:00,2,"213,Gulshan Park,Mundka , Mund... -> Arpit , AM Steel Amar Colony, ...",28.682309,77.043944,28.682401,77.064732,14ft (Open),1147,2212,0.0,,2,,True,False,success
+2026-03-25T12:23:08.000037,12:00,2,"213,Gulshan Park,Mundka , Mund... -> Arpit , AM Steel Amar Colony, ...",28.682309,77.043944,28.682401,77.064732,17ft,4,2675,0.0,,0,,True,False,success
+2026-03-25T12:23:08.000037,12:00,2,"213,Gulshan Park,Mundka , Mund... -> Arpit , AM Steel Amar Colony, ...",28.682309,77.043944,28.682401,77.064732,19ft,2161,4075,0.0,,3,,True,False,success
+2026-03-25T12:23:23.026942,12:00,3,". , 8907,Sidipura,Karol Bagh K... -> C-14,Rani Jhansi Rd,Block E,Jh...",28.652998,77.189023,28.645593,77.202205,2 Wheeler,97,96,8.0,DELHINCR2WHLR8,8,,True,False,success
+2026-03-25T12:23:23.026942,12:00,3,". , 8907,Sidipura,Karol Bagh K... -> C-14,Rani Jhansi Rd,Block E,Jh...",28.652998,77.189023,28.645593,77.202205,3 Wheeler,91,347,0.0,,5,,True,False,success
+2026-03-25T12:23:23.026942,12:00,3,". , 8907,Sidipura,Karol Bagh K... -> C-14,Rani Jhansi Rd,Block E,Jh...",28.652998,77.189023,28.645593,77.202205,Tata Ace,1,662,0.0,,2,,True,False,success
+2026-03-25T12:23:23.026942,12:00,3,". , 8907,Sidipura,Karol Bagh K... -> C-14,Rani Jhansi Rd,Block E,Jh...",28.652998,77.189023,28.645593,77.202205,Eeco,7,442,0.0,,2,,True,False,success
+2026-03-25T12:23:23.026942,12:00,3,". , 8907,Sidipura,Karol Bagh K... -> C-14,Rani Jhansi Rd,Block E,Jh...",28.652998,77.189023,28.645593,77.202205,Pickup 8ft,8,822,0.0,,1,,True,False,success
+2026-03-25T12:23:23.026942,12:00,3,". , 8907,Sidipura,Karol Bagh K... -> C-14,Rani Jhansi Rd,Block E,Jh...",28.652998,77.189023,28.645593,77.202205,E Loader,126,317,0.0,,1,,True,False,success
+2026-03-25T12:23:23.026942,12:00,3,". , 8907,Sidipura,Karol Bagh K... -> C-14,Rani Jhansi Rd,Block E,Jh...",28.652998,77.189023,28.645593,77.202205,10ft,1144,2346,0.0,,2,,True,False,success
+2026-03-25T12:23:23.026942,12:00,3,". , 8907,Sidipura,Karol Bagh K... -> C-14,Rani Jhansi Rd,Block E,Jh...",28.652998,77.189023,28.645593,77.202205,14ft (Closed),1148,3572,0.0,,0,,True,False,success
+2026-03-25T12:23:23.026942,12:00,3,". , 8907,Sidipura,Karol Bagh K... -> C-14,Rani Jhansi Rd,Block E,Jh...",28.652998,77.189023,28.645593,77.202205,14ft,1149,3729,0.0,,0,,True,False,success
+2026-03-25T12:23:23.026942,12:00,3,". , 8907,Sidipura,Karol Bagh K... -> C-14,Rani Jhansi Rd,Block E,Jh...",28.652998,77.189023,28.645593,77.202205,14ft (Open),1147,3729,0.0,,0,,True,False,success
+2026-03-25T12:23:23.026942,12:00,3,". , 8907,Sidipura,Karol Bagh K... -> C-14,Rani Jhansi Rd,Block E,Jh...",28.652998,77.189023,28.645593,77.202205,17ft,4,4416,0.0,,0,,True,False,success
+2026-03-25T12:23:23.026942,12:00,3,". , 8907,Sidipura,Karol Bagh K... -> C-14,Rani Jhansi Rd,Block E,Jh...",28.652998,77.189023,28.645593,77.202205,19ft,2161,4246,0.0,,0,,True,False,success
+2026-03-25T12:23:36.604875,12:00,4,"Govt. Wine Shop , Mangol Puri ... -> 175, near MCD park, Peera Garh...",28.693424,77.179277,28.675104,77.095177,2 Wheeler,97,133,11.0,DELHINCR2WHLR8,8,,True,False,success
+2026-03-25T12:23:36.604875,12:00,4,"Govt. Wine Shop , Mangol Puri ... -> 175, near MCD park, Peera Garh...",28.693424,77.179277,28.675104,77.095177,3 Wheeler,91,498,0.0,,8,,True,False,success
+2026-03-25T12:23:36.604875,12:00,4,"Govt. Wine Shop , Mangol Puri ... -> 175, near MCD park, Peera Garh...",28.693424,77.179277,28.675104,77.095177,Tata Ace,1,822,0.0,,8,,True,False,success
+2026-03-25T12:23:36.604875,12:00,4,"Govt. Wine Shop , Mangol Puri ... -> 175, near MCD park, Peera Garh...",28.693424,77.179277,28.675104,77.095177,Eeco,7,619,0.0,,2,,True,False,success
+2026-03-25T12:23:36.604875,12:00,4,"Govt. Wine Shop , Mangol Puri ... -> 175, near MCD park, Peera Garh...",28.693424,77.179277,28.675104,77.095177,Pickup 8ft,8,1043,0.0,,7,,True,False,success
+2026-03-25T12:23:36.604875,12:00,4,"Govt. Wine Shop , Mangol Puri ... -> 175, near MCD park, Peera Garh...",28.693424,77.179277,28.675104,77.095177,E Loader,126,424,0.0,,4,,True,False,success
+2026-03-25T12:23:36.604875,12:00,4,"Govt. Wine Shop , Mangol Puri ... -> 175, near MCD park, Peera Garh...",28.693424,77.179277,28.675104,77.095177,10ft,1144,1285,0.0,,4,,True,False,success
+2026-03-25T12:23:36.604875,12:00,4,"Govt. Wine Shop , Mangol Puri ... -> 175, near MCD park, Peera Garh...",28.693424,77.179277,28.675104,77.095177,14ft (Closed),1148,2476,0.0,,6,,True,False,success
+2026-03-25T12:23:36.604875,12:00,4,"Govt. Wine Shop , Mangol Puri ... -> 175, near MCD park, Peera Garh...",28.693424,77.179277,28.675104,77.095177,14ft,1149,2723,0.0,,8,,True,False,success
+2026-03-25T12:23:36.604875,12:00,4,"Govt. Wine Shop , Mangol Puri ... -> 175, near MCD park, Peera Garh...",28.693424,77.179277,28.675104,77.095177,14ft (Open),1147,2723,0.0,,3,,True,False,success
+2026-03-25T12:23:36.604875,12:00,4,"Govt. Wine Shop , Mangol Puri ... -> 175, near MCD park, Peera Garh...",28.693424,77.179277,28.675104,77.095177,17ft,4,2852,0.0,,3,,True,False,success
+2026-03-25T12:23:36.604875,12:00,4,"Govt. Wine Shop , Mangol Puri ... -> 175, near MCD park, Peera Garh...",28.693424,77.179277,28.675104,77.095177,19ft,2161,4265,0.0,,0,,True,False,success
+2026-03-25T12:23:51.068902,12:00,5,"Mangolpuri Industrial Area Pha... -> Peera Garhi, Peeragarhi Villag...",28.620212,77.301639,28.675104,77.095177,2 Wheeler,97,251,21.0,DELHINCR2WHLR8,8,,True,False,success
+2026-03-25T12:23:51.068902,12:00,5,"Mangolpuri Industrial Area Pha... -> Peera Garhi, Peeragarhi Villag...",28.620212,77.301639,28.675104,77.095177,3 Wheeler,91,953,0.0,,8,,True,False,success
+2026-03-25T12:23:51.068902,12:00,5,"Mangolpuri Industrial Area Pha... -> Peera Garhi, Peeragarhi Villag...",28.620212,77.301639,28.675104,77.095177,Tata Ace,1,1339,0.0,,8,,True,False,success
+2026-03-25T12:23:51.068902,12:00,5,"Mangolpuri Industrial Area Pha... -> Peera Garhi, Peeragarhi Villag...",28.620212,77.301639,28.675104,77.095177,Eeco,7,1129,0.0,,5,,True,False,success
+2026-03-25T12:23:51.068902,12:00,5,"Mangolpuri Industrial Area Pha... -> Peera Garhi, Peeragarhi Villag...",28.620212,77.301639,28.675104,77.095177,Pickup 8ft,8,1746,0.0,,5,,True,False,success
+2026-03-25T12:23:51.068902,12:00,5,"Mangolpuri Industrial Area Pha... -> Peera Garhi, Peeragarhi Villag...",28.620212,77.301639,28.675104,77.095177,E Loader,126,828,0.0,,8,,True,False,success
+2026-03-25T12:23:51.068902,12:00,5,"Mangolpuri Industrial Area Pha... -> Peera Garhi, Peeragarhi Villag...",28.620212,77.301639,28.675104,77.095177,10ft,1144,2065,0.0,,2,,True,False,success
+2026-03-25T12:23:51.068902,12:00,5,"Mangolpuri Industrial Area Pha... -> Peera Garhi, Peeragarhi Villag...",28.620212,77.301639,28.675104,77.095177,14ft (Closed),1148,3497,0.0,,0,,True,False,success
+2026-03-25T12:23:51.068902,12:00,5,"Mangolpuri Industrial Area Pha... -> Peera Garhi, Peeragarhi Villag...",28.620212,77.301639,28.675104,77.095177,14ft,1149,3983,0.0,,1,,True,False,success
+2026-03-25T12:23:51.068902,12:00,5,"Mangolpuri Industrial Area Pha... -> Peera Garhi, Peeragarhi Villag...",28.620212,77.301639,28.675104,77.095177,14ft (Open),1147,3983,0.0,,1,,True,False,success
+2026-03-25T12:23:51.068902,12:00,5,"Mangolpuri Industrial Area Pha... -> Peera Garhi, Peeragarhi Villag...",28.620212,77.301639,28.675104,77.095177,17ft,4,4636,0.0,,1,,True,False,success
+2026-03-25T12:23:51.068902,12:00,5,"Mangolpuri Industrial Area Pha... -> Peera Garhi, Peeragarhi Villag...",28.620212,77.301639,28.675104,77.095177,19ft,2161,5848,0.0,,0,,True,False,success
+2026-03-25T12:24:09.565899,12:00,6,"CN-3029, Mundka Industrial Are... -> City Park Resort , Rohtak Road...",28.682434,77.030574,28.694715,77.154261,2 Wheeler,97,143,12.0,DELHINCR2WHLR8,8,,True,False,success
+2026-03-25T12:24:09.565899,12:00,6,"CN-3029, Mundka Industrial Are... -> City Park Resort , Rohtak Road...",28.682434,77.030574,28.694715,77.154261,3 Wheeler,91,535,0.0,,8,,True,False,success
+2026-03-25T12:24:09.565899,12:00,6,"CN-3029, Mundka Industrial Are... -> City Park Resort , Rohtak Road...",28.682434,77.030574,28.694715,77.154261,Tata Ace,1,861,0.0,,8,,True,False,success
+2026-03-25T12:24:09.565899,12:00,6,"CN-3029, Mundka Industrial Are... -> City Park Resort , Rohtak Road...",28.682434,77.030574,28.694715,77.154261,Eeco,7,650,0.0,,8,,True,False,success
+2026-03-25T12:24:09.565899,12:00,6,"CN-3029, Mundka Industrial Are... -> City Park Resort , Rohtak Road...",28.682434,77.030574,28.694715,77.154261,Pickup 8ft,8,1131,0.0,,8,,True,False,success
+2026-03-25T12:24:09.565899,12:00,6,"CN-3029, Mundka Industrial Are... -> City Park Resort , Rohtak Road...",28.682434,77.030574,28.694715,77.154261,E Loader,126,459,0.0,,3,,True,False,success
+2026-03-25T12:24:09.565899,12:00,6,"CN-3029, Mundka Industrial Are... -> City Park Resort , Rohtak Road...",28.682434,77.030574,28.694715,77.154261,10ft,1144,1338,0.0,,8,,True,False,success
+2026-03-25T12:24:09.565899,12:00,6,"CN-3029, Mundka Industrial Are... -> City Park Resort , Rohtak Road...",28.682434,77.030574,28.694715,77.154261,14ft (Closed),1148,2554,0.0,,1,,True,False,success
+2026-03-25T12:24:09.565899,12:00,6,"CN-3029, Mundka Industrial Are... -> City Park Resort , Rohtak Road...",28.682434,77.030574,28.694715,77.154261,14ft,1149,2818,0.0,,4,,True,False,success
+2026-03-25T12:24:09.565899,12:00,6,"CN-3029, Mundka Industrial Are... -> City Park Resort , Rohtak Road...",28.682434,77.030574,28.694715,77.154261,14ft (Open),1147,2818,0.0,,3,,True,False,success
+2026-03-25T12:24:09.565899,12:00,6,"CN-3029, Mundka Industrial Are... -> City Park Resort , Rohtak Road...",28.682434,77.030574,28.694715,77.154261,17ft,4,2946,0.0,,2,,True,False,success
+2026-03-25T12:24:09.565899,12:00,6,"CN-3029, Mundka Industrial Are... -> City Park Resort , Rohtak Road...",28.682434,77.030574,28.694715,77.154261,19ft,2161,4371,0.0,,2,,True,False,success
+2026-03-25T12:24:26.313181,12:00,7,"Block 48D, Beadonpura, Karol B... -> 9A/1, Vishnu Mandir Marg, adja...",28.652998,77.189023,28.640282,77.22041,2 Wheeler,97,87,7.0,DELHINCR2WHLR8,8,,True,False,success
+2026-03-25T12:24:26.313181,12:00,7,"Block 48D, Beadonpura, Karol B... -> 9A/1, Vishnu Mandir Marg, adja...",28.652998,77.189023,28.640282,77.22041,3 Wheeler,91,539,0.0,,7,,True,False,success
+2026-03-25T12:24:26.313181,12:00,7,"Block 48D, Beadonpura, Karol B... -> 9A/1, Vishnu Mandir Marg, adja...",28.652998,77.189023,28.640282,77.22041,Tata Ace,1,868,0.0,,0,,True,False,success
+2026-03-25T12:24:26.313181,12:00,7,"Block 48D, Beadonpura, Karol B... -> 9A/1, Vishnu Mandir Marg, adja...",28.652998,77.189023,28.640282,77.22041,Eeco,7,642,0.0,,4,,True,False,success
+2026-03-25T12:24:26.313181,12:00,7,"Block 48D, Beadonpura, Karol B... -> 9A/1, Vishnu Mandir Marg, adja...",28.652998,77.189023,28.640282,77.22041,Pickup 8ft,8,1040,0.0,,1,,True,False,success
+2026-03-25T12:24:26.313181,12:00,7,"Block 48D, Beadonpura, Karol B... -> 9A/1, Vishnu Mandir Marg, adja...",28.652998,77.189023,28.640282,77.22041,E Loader,126,350,0.0,,1,,True,False,success
+2026-03-25T12:24:26.313181,12:00,7,"Block 48D, Beadonpura, Karol B... -> 9A/1, Vishnu Mandir Marg, adja...",28.652998,77.189023,28.640282,77.22041,10ft,1144,1873,0.0,,1,,True,False,success
+2026-03-25T12:24:26.313181,12:00,7,"Block 48D, Beadonpura, Karol B... -> 9A/1, Vishnu Mandir Marg, adja...",28.652998,77.189023,28.640282,77.22041,14ft (Closed),1148,2821,0.0,,0,,True,False,success
+2026-03-25T12:24:26.313181,12:00,7,"Block 48D, Beadonpura, Karol B... -> 9A/1, Vishnu Mandir Marg, adja...",28.652998,77.189023,28.640282,77.22041,14ft,1149,2999,0.0,,0,,True,False,success
+2026-03-25T12:24:26.313181,12:00,7,"Block 48D, Beadonpura, Karol B... -> 9A/1, Vishnu Mandir Marg, adja...",28.652998,77.189023,28.640282,77.22041,14ft (Open),1147,2999,0.0,,0,,True,False,success
+2026-03-25T12:24:26.313181,12:00,7,"Block 48D, Beadonpura, Karol B... -> 9A/1, Vishnu Mandir Marg, adja...",28.652998,77.189023,28.640282,77.22041,17ft,4,3596,0.0,,0,,True,False,success
+2026-03-25T12:24:26.313181,12:00,7,"Block 48D, Beadonpura, Karol B... -> 9A/1, Vishnu Mandir Marg, adja...",28.652998,77.189023,28.640282,77.22041,19ft,2161,4274,0.0,,0,,True,False,success
+2026-03-25T12:24:44.163719,12:00,8,"9A/1,Vishnu Mandir Marg,Channa... -> 1/11,Block 1,East Patel Nagar,...",28.652998,77.189023,28.645649,77.172567,2 Wheeler,97,98,8.0,DELHINCR2WHLR8,8,,True,False,success
+2026-03-25T12:24:44.163719,12:00,8,"9A/1,Vishnu Mandir Marg,Channa... -> 1/11,Block 1,East Patel Nagar,...",28.652998,77.189023,28.645649,77.172567,3 Wheeler,91,348,0.0,,6,,True,False,success
+2026-03-25T12:24:44.163719,12:00,8,"9A/1,Vishnu Mandir Marg,Channa... -> 1/11,Block 1,East Patel Nagar,...",28.652998,77.189023,28.645649,77.172567,Tata Ace,1,664,0.0,,1,,True,False,success
+2026-03-25T12:24:44.163719,12:00,8,"9A/1,Vishnu Mandir Marg,Channa... -> 1/11,Block 1,East Patel Nagar,...",28.652998,77.189023,28.645649,77.172567,Eeco,7,444,0.0,,3,,True,False,success
+2026-03-25T12:24:44.163719,12:00,8,"9A/1,Vishnu Mandir Marg,Channa... -> 1/11,Block 1,East Patel Nagar,...",28.652998,77.189023,28.645649,77.172567,Pickup 8ft,8,824,0.0,,1,,True,False,success
+2026-03-25T12:24:44.163719,12:00,8,"9A/1,Vishnu Mandir Marg,Channa... -> 1/11,Block 1,East Patel Nagar,...",28.652998,77.189023,28.645649,77.172567,E Loader,126,298,0.0,,1,,True,False,success
+2026-03-25T12:24:44.163719,12:00,8,"9A/1,Vishnu Mandir Marg,Channa... -> 1/11,Block 1,East Patel Nagar,...",28.652998,77.189023,28.645649,77.172567,10ft,1144,2349,0.0,,1,,True,False,success
+2026-03-25T12:24:44.163719,12:00,8,"9A/1,Vishnu Mandir Marg,Channa... -> 1/11,Block 1,East Patel Nagar,...",28.652998,77.189023,28.645649,77.172567,14ft (Closed),1148,3576,0.0,,0,,True,False,success
+2026-03-25T12:24:44.163719,12:00,8,"9A/1,Vishnu Mandir Marg,Channa... -> 1/11,Block 1,East Patel Nagar,...",28.652998,77.189023,28.645649,77.172567,14ft,1149,3734,0.0,,0,,True,False,success
+2026-03-25T12:24:44.163719,12:00,8,"9A/1,Vishnu Mandir Marg,Channa... -> 1/11,Block 1,East Patel Nagar,...",28.652998,77.189023,28.645649,77.172567,14ft (Open),1147,3734,0.0,,0,,True,False,success
+2026-03-25T12:24:44.163719,12:00,8,"9A/1,Vishnu Mandir Marg,Channa... -> 1/11,Block 1,East Patel Nagar,...",28.652998,77.189023,28.645649,77.172567,17ft,4,4416,0.0,,0,,True,False,success
+2026-03-25T12:24:44.163719,12:00,8,"9A/1,Vishnu Mandir Marg,Channa... -> 1/11,Block 1,East Patel Nagar,...",28.652998,77.189023,28.645649,77.172567,19ft,2161,4247,0.0,,0,,True,False,success
